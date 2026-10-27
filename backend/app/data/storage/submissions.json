@@ -1,0 +1,2372 @@
+[
+  {
+    "id": "corr-c3f2984fec",
+    "timestamp": "2026-10-15T17:22:21.945359",
+    "profile_id": "default",
+    "theme": "Invisibilidade do trabalho de cuidado realizado pela mulher no Brasil",
+    "text": "Na obra Casa-Grande e Senzala, o sociólogo expõe as raízes patriarcais da sociedade.\n\nEm primeira análise, a negligência governamental agrava essa problemática.\n\nAdemais, a cumplicidade social reforça a invisibilidade do trabalho feminino.\n\nPortanto, cabe ao Ministério da Educação criar oficinas nas escolas, a fim de conscientizar a juventude.",
+    "total_score": 800,
+    "competency_scores": {
+      "C1": {
+        "competency": "C1",
+        "name": "Domínio da Norma Culta da Língua Portuguesa",
+        "score": 200,
+        "level": 5,
+        "description": "Excelente domínio da modalidade escrita formal, com no máximo dois desvios gramaticais leves tolerados.",
+        "strengths": [
+          "Excelente pontuação em C1 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C2": {
+        "competency": "C2",
+        "name": "Compreensão da Proposta e Repertório Sociocultural",
+        "score": 160,
+        "level": 4,
+        "description": "Repertório legitimado e pertinente ao tema, com desenvolvimento produtivo razoável.",
+        "strengths": [
+          "Excelente pontuação em C2 (160/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C3": {
+        "competency": "C3",
+        "name": "Projeto de Texto e Consistência Argumentativa",
+        "score": 120,
+        "level": 3,
+        "description": "Projeto de texto com algumas falhas, apresentando argumentos pertinentes mas com desenvolvimento superficial.",
+        "strengths": [],
+        "improvements": [
+          "Oportunidade de elevar C3 de 120 para 200 pontos."
+        ],
+        "evidence": []
+      },
+      "C4": {
+        "competency": "C4",
+        "name": "Mecanismos Linguísticos de Coesão",
+        "score": 200,
+        "level": 5,
+        "description": "Uso expressivo e diversificado de recursos coesivos inter e intraparágrafos, sem repetições viciosas.",
+        "strengths": [
+          "Excelente pontuação em C4 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C5": {
+        "competency": "C5",
+        "name": "Proposta de Intervenção Social e Cidadã",
+        "score": 120,
+        "level": 3,
+        "description": "Presença de 3 elementos válidos da proposta de intervenção.",
+        "strengths": [],
+        "improvements": [
+          "Oportunidade de elevar C5 de 120 para 200 pontos."
+        ],
+        "evidence": []
+      }
+    },
+    "examiner_alfa": {
+      "examiner_name": "Examinador Alfa",
+      "focus": "Norma Culta da Língua Escrita (C1) e Mecanismos de Coesão (C4)",
+      "scores": {
+        "C1": 200,
+        "C2": 120,
+        "C3": 120,
+        "C4": 200,
+        "C5": 120
+      },
+      "total": 760,
+      "rationale": "Avaliação da perspectiva linguística: Identificados 0 desvios gramaticais em C1. Presença de 3 conectivos interparágrafos em C4. Vocabulário com índice de riqueza lexical TTR=0.90."
+    },
+    "examiner_beta": {
+      "examiner_name": "Examinador Beta",
+      "focus": "Compreensão Temática (C2), Projeto de Texto (C3) e Proposta de Intervenção (C5)",
+      "scores": {
+        "C1": 200,
+        "C2": 200,
+        "C3": 120,
+        "C4": 200,
+        "C5": 120
+      },
+      "total": 840,
+      "rationale": "Avaliação da perspectiva temático-argumentativa: Localizados 2 repertórios socioculturais. Cobertura temática validada (2/7 termos centrais). Proposta de intervenção identificou 3/5 elementos obrigatórios."
+    },
+    "discrepancy_report": {
+      "has_discrepancy": false,
+      "discrepant_competencies": [],
+      "total_diff": 80,
+      "auditor_intervened": false,
+      "final_decision_summary": "Concordância plena entre Examinadores Alfa e Beta (Diferença de 80 pts dentro da margem oficial). Média aritmética INEP aplicada."
+    },
+    "annotations": [
+      {
+        "id": "ann-c5-praise-agent-251",
+        "competency": "C5",
+        "severity": "elogio",
+        "range": {
+          "start": 251,
+          "end": 308,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "cabe ao Ministério da Educação criar oficinas nas escolas",
+        "title": "Elemento Identificado: Agente (Comp. 5)",
+        "description": "Agente executor da proposta claramente especificado.",
+        "layperson_tip": "Excelente! Você indicou QUEM deve agir para resolver o problema.",
+        "suggested_fix": null,
+        "benchmark_comparison": "O agente bem determinado garante os primeiros 40 pontos da Competência 5."
+      },
+      {
+        "id": "ann-c5-missing-medium-241",
+        "competency": "C5",
+        "severity": "erro",
+        "range": {
+          "start": 241,
+          "end": 321,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "Portanto, cabe ao Ministério da Educação criar oficinas nas escolas, a fim de co",
+        "title": "Elemento Ausente: Modo / Meio (Comp. 5)",
+        "description": "A proposta não detalha COMO a ação será posta em prática.",
+        "layperson_tip": "Explique o meio ou método usando 'por meio de...' ou 'mediante...'.",
+        "suggested_fix": "por intermédio do direcionamento prioritário de verbas orçamentárias e capacitação profissional,",
+        "benchmark_comparison": "O meio/modo é requisito obrigatório na cartilha do corretor do INEP."
+      },
+      {
+        "id": "ann-c5-missing-detail-241",
+        "competency": "C5",
+        "severity": "atencao",
+        "range": {
+          "start": 241,
+          "end": 311,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "Portanto, cabe ao Ministério da Educação criar oficinas nas escolas, a",
+        "title": "Elemento Ausente: Detalhamento (Comp. 5)",
+        "description": "Faltou detalhar um dos 4 elementos da proposta (explicar a função do agente ou exemplificar o meio).",
+        "layperson_tip": "Acrescente uma explicação entre vírgulas para o agente ou para o meio. Ex: 'Ministério da Saúde, pasta responsável pela política pública preventiva...'",
+        "suggested_fix": "órgão responsável pela formulação das políticas de proteção coletiva,",
+        "benchmark_comparison": "A falta de detalhamento é a causa mais comum de redações ficarem com 160 pontos na C5."
+      }
+    ],
+    "metrics": {
+      "total_words": 48,
+      "total_paragraphs": 4,
+      "total_sentences": 4,
+      "avg_words_per_sentence": 12.0,
+      "avg_words_per_paragraph": 12.0,
+      "type_token_ratio": 0.8958,
+      "interparagraph_connectors_count": 3,
+      "interparagraph_connectors_found": [
+        "Parágrafo 2: Em primeira análise, a negligê...",
+        "Parágrafo 3: Ademais, a cumplicidade social...",
+        "Parágrafo 4: Portanto, cabe ao Ministério d..."
+      ],
+      "c5_elements_present": {
+        "agente": true,
+        "acao": true,
+        "meio": false,
+        "efeito": true,
+        "detalhamento": false
+      }
+    },
+    "pedagogical_summary": {
+      "greeting": "Muito bom trabalho! Sua base de redação é sólida e você já domina a estrutura fundamental do texto.",
+      "overall_verdict": "Você tem ótimas ideias. O segredo agora é organizar melhor as palavras de ligação e aprofundar os exemplos.",
+      "greatest_strength": "Domínio da Norma Culta da Língua Portuguesa (200/200): Você demonstrou forte segurança neste critério.",
+      "primary_focus_area": "Proposta de Intervenção Social e Cidadã (120/200): Focando aqui, você tem potencial imediato de subir sua nota.",
+      "suggested_action_plan": [
+        "Na conclusão, responda às 5 perguntinhas: Quem faz? O que faz? Como faz? Para que faz? E dê um detalhe extra.",
+        "Explore a redação nota 1000 sobre 'Invisibilidade do trabalho de cuidado realizado pela mulher no Brasil' no Explorador Raio-X para ver na prática como estruturar o parágrafo.",
+        "Clique no botão 'Aplicar Correção' nos cartões destacados do seu texto para ver a frase melhorada instantaneamente."
+      ],
+      "inspirational_quote": "'A escrita não é fruto de mágica, mas de técnica e persistência.' — Boa prática rumo à nota 1000!"
+    },
+    "similar_benchmarks": [
+      "red-1000-2023-011",
+      "red-1000-2023-012",
+      "red-1000-2023-013"
+    ]
+  },
+  {
+    "id": "corr-6d2dbc5b6d",
+    "timestamp": "2026-10-15T17:24:33.099362",
+    "profile_id": "default",
+    "theme": "Invisibilidade do trabalho de cuidado realizado pela mulher no Brasil",
+    "text": "Na obra Casa-Grande e Senzala, o sociólogo expõe as raízes patriarcais da sociedade.\n\nEm primeira análise, a negligência governamental agrava essa problemática.\n\nAdemais, a cumplicidade social reforça a invisibilidade do trabalho feminino.\n\nPortanto, cabe ao Ministério da Educação criar oficinas nas escolas, a fim de conscientizar a juventude.",
+    "total_score": 800,
+    "competency_scores": {
+      "C1": {
+        "competency": "C1",
+        "name": "Domínio da Norma Culta da Língua Portuguesa",
+        "score": 200,
+        "level": 5,
+        "description": "Excelente domínio da modalidade escrita formal, com no máximo dois desvios gramaticais leves tolerados.",
+        "strengths": [
+          "Excelente pontuação em C1 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C2": {
+        "competency": "C2",
+        "name": "Compreensão da Proposta e Repertório Sociocultural",
+        "score": 160,
+        "level": 4,
+        "description": "Repertório legitimado e pertinente ao tema, com desenvolvimento produtivo razoável.",
+        "strengths": [
+          "Excelente pontuação em C2 (160/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C3": {
+        "competency": "C3",
+        "name": "Projeto de Texto e Consistência Argumentativa",
+        "score": 120,
+        "level": 3,
+        "description": "Projeto de texto com algumas falhas, apresentando argumentos pertinentes mas com desenvolvimento superficial.",
+        "strengths": [],
+        "improvements": [
+          "Oportunidade de elevar C3 de 120 para 200 pontos."
+        ],
+        "evidence": []
+      },
+      "C4": {
+        "competency": "C4",
+        "name": "Mecanismos Linguísticos de Coesão",
+        "score": 200,
+        "level": 5,
+        "description": "Uso expressivo e diversificado de recursos coesivos inter e intraparágrafos, sem repetições viciosas.",
+        "strengths": [
+          "Excelente pontuação em C4 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C5": {
+        "competency": "C5",
+        "name": "Proposta de Intervenção Social e Cidadã",
+        "score": 120,
+        "level": 3,
+        "description": "Presença de 3 elementos válidos da proposta de intervenção.",
+        "strengths": [],
+        "improvements": [
+          "Oportunidade de elevar C5 de 120 para 200 pontos."
+        ],
+        "evidence": []
+      }
+    },
+    "examiner_alfa": {
+      "examiner_name": "Examinador Alfa",
+      "focus": "Norma Culta da Língua Escrita (C1) e Mecanismos de Coesão (C4)",
+      "scores": {
+        "C1": 200,
+        "C2": 120,
+        "C3": 120,
+        "C4": 200,
+        "C5": 120
+      },
+      "total": 760,
+      "rationale": "Avaliação da perspectiva linguística: Identificados 0 desvios gramaticais em C1. Presença de 3 conectivos interparágrafos em C4. Vocabulário com índice de riqueza lexical TTR=0.90."
+    },
+    "examiner_beta": {
+      "examiner_name": "Examinador Beta",
+      "focus": "Compreensão Temática (C2), Projeto de Texto (C3) e Proposta de Intervenção (C5)",
+      "scores": {
+        "C1": 200,
+        "C2": 200,
+        "C3": 120,
+        "C4": 200,
+        "C5": 120
+      },
+      "total": 840,
+      "rationale": "Avaliação da perspectiva temático-argumentativa: Localizados 2 repertórios socioculturais. Cobertura temática validada (2/7 termos centrais). Proposta de intervenção identificou 3/5 elementos obrigatórios."
+    },
+    "discrepancy_report": {
+      "has_discrepancy": false,
+      "discrepant_competencies": [],
+      "total_diff": 80,
+      "auditor_intervened": false,
+      "final_decision_summary": "Concordância plena entre Examinadores Alfa e Beta (Diferença de 80 pts dentro da margem oficial). Média aritmética INEP aplicada."
+    },
+    "annotations": [
+      {
+        "id": "ann-c5-praise-agent-251",
+        "competency": "C5",
+        "severity": "elogio",
+        "range": {
+          "start": 251,
+          "end": 308,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "cabe ao Ministério da Educação criar oficinas nas escolas",
+        "title": "Elemento Identificado: Agente (Comp. 5)",
+        "description": "Agente executor da proposta claramente especificado.",
+        "layperson_tip": "Excelente! Você indicou QUEM deve agir para resolver o problema.",
+        "suggested_fix": null,
+        "benchmark_comparison": "O agente bem determinado garante os primeiros 40 pontos da Competência 5."
+      },
+      {
+        "id": "ann-c5-missing-medium-241",
+        "competency": "C5",
+        "severity": "erro",
+        "range": {
+          "start": 241,
+          "end": 321,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "Portanto, cabe ao Ministério da Educação criar oficinas nas escolas, a fim de co",
+        "title": "Elemento Ausente: Modo / Meio (Comp. 5)",
+        "description": "A proposta não detalha COMO a ação será posta em prática.",
+        "layperson_tip": "Explique o meio ou método usando 'por meio de...' ou 'mediante...'.",
+        "suggested_fix": "por intermédio do direcionamento prioritário de verbas orçamentárias e capacitação profissional,",
+        "benchmark_comparison": "O meio/modo é requisito obrigatório na cartilha do corretor do INEP."
+      },
+      {
+        "id": "ann-c5-missing-detail-241",
+        "competency": "C5",
+        "severity": "atencao",
+        "range": {
+          "start": 241,
+          "end": 311,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "Portanto, cabe ao Ministério da Educação criar oficinas nas escolas, a",
+        "title": "Elemento Ausente: Detalhamento (Comp. 5)",
+        "description": "Faltou detalhar um dos 4 elementos da proposta (explicar a função do agente ou exemplificar o meio).",
+        "layperson_tip": "Acrescente uma explicação entre vírgulas para o agente ou para o meio. Ex: 'Ministério da Saúde, pasta responsável pela política pública preventiva...'",
+        "suggested_fix": "órgão responsável pela formulação das políticas de proteção coletiva,",
+        "benchmark_comparison": "A falta de detalhamento é a causa mais comum de redações ficarem com 160 pontos na C5."
+      }
+    ],
+    "metrics": {
+      "total_words": 48,
+      "total_paragraphs": 4,
+      "total_sentences": 4,
+      "avg_words_per_sentence": 12.0,
+      "avg_words_per_paragraph": 12.0,
+      "type_token_ratio": 0.8958,
+      "interparagraph_connectors_count": 3,
+      "interparagraph_connectors_found": [
+        "Parágrafo 2: Em primeira análise, a negligê...",
+        "Parágrafo 3: Ademais, a cumplicidade social...",
+        "Parágrafo 4: Portanto, cabe ao Ministério d..."
+      ],
+      "c5_elements_present": {
+        "agente": true,
+        "acao": true,
+        "meio": false,
+        "efeito": true,
+        "detalhamento": false
+      }
+    },
+    "pedagogical_summary": {
+      "greeting": "Muito bom trabalho! Sua base de redação é sólida e você já domina a estrutura fundamental do texto.",
+      "overall_verdict": "Você tem ótimas ideias. O segredo agora é organizar melhor as palavras de ligação e aprofundar os exemplos.",
+      "greatest_strength": "Domínio da Norma Culta da Língua Portuguesa (200/200): Você demonstrou forte segurança neste critério.",
+      "primary_focus_area": "Proposta de Intervenção Social e Cidadã (120/200): Focando aqui, você tem potencial imediato de subir sua nota.",
+      "suggested_action_plan": [
+        "Na conclusão, responda às 5 perguntinhas: Quem faz? O que faz? Como faz? Para que faz? E dê um detalhe extra.",
+        "Explore a redação nota 1000 sobre 'Invisibilidade do trabalho de cuidado realizado pela mulher no Brasil' no Explorador Raio-X para ver na prática como estruturar o parágrafo.",
+        "Clique no botão 'Aplicar Correção' nos cartões destacados do seu texto para ver a frase melhorada instantaneamente."
+      ],
+      "inspirational_quote": "'A escrita não é fruto de mágica, mas de técnica e persistência.' — Boa prática rumo à nota 1000!"
+    },
+    "similar_benchmarks": [
+      "red-1000-2023-011",
+      "red-1000-2023-012",
+      "red-1000-2023-013"
+    ]
+  },
+  {
+    "id": "corr-84ed9d471d",
+    "timestamp": "2026-10-15T17:25:37.507921",
+    "profile_id": "default",
+    "theme": "Invisibilidade do trabalho de cuidado realizado pela mulher no Brasil",
+    "text": "Na obra Casa-Grande e Senzala, o sociólogo expõe as raízes patriarcais da sociedade.\n\nEm primeira análise, a negligência governamental agrava essa problemática.\n\nAdemais, a cumplicidade social reforça a invisibilidade do trabalho feminino.\n\nPortanto, cabe ao Ministério da Educação criar oficinas nas escolas, a fim de conscientizar a juventude.",
+    "total_score": 800,
+    "competency_scores": {
+      "C1": {
+        "competency": "C1",
+        "name": "Domínio da Norma Culta da Língua Portuguesa",
+        "score": 200,
+        "level": 5,
+        "description": "Excelente domínio da modalidade escrita formal, com no máximo dois desvios gramaticais leves tolerados.",
+        "strengths": [
+          "Excelente pontuação em C1 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C2": {
+        "competency": "C2",
+        "name": "Compreensão da Proposta e Repertório Sociocultural",
+        "score": 160,
+        "level": 4,
+        "description": "Repertório legitimado e pertinente ao tema, com desenvolvimento produtivo razoável.",
+        "strengths": [
+          "Excelente pontuação em C2 (160/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C3": {
+        "competency": "C3",
+        "name": "Projeto de Texto e Consistência Argumentativa",
+        "score": 120,
+        "level": 3,
+        "description": "Projeto de texto com algumas falhas, apresentando argumentos pertinentes mas com desenvolvimento superficial.",
+        "strengths": [],
+        "improvements": [
+          "Oportunidade de elevar C3 de 120 para 200 pontos."
+        ],
+        "evidence": []
+      },
+      "C4": {
+        "competency": "C4",
+        "name": "Mecanismos Linguísticos de Coesão",
+        "score": 200,
+        "level": 5,
+        "description": "Uso expressivo e diversificado de recursos coesivos inter e intraparágrafos, sem repetições viciosas.",
+        "strengths": [
+          "Excelente pontuação em C4 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C5": {
+        "competency": "C5",
+        "name": "Proposta de Intervenção Social e Cidadã",
+        "score": 120,
+        "level": 3,
+        "description": "Presença de 3 elementos válidos da proposta de intervenção.",
+        "strengths": [],
+        "improvements": [
+          "Oportunidade de elevar C5 de 120 para 200 pontos."
+        ],
+        "evidence": []
+      }
+    },
+    "examiner_alfa": {
+      "examiner_name": "Examinador Alfa",
+      "focus": "Norma Culta da Língua Escrita (C1) e Mecanismos de Coesão (C4)",
+      "scores": {
+        "C1": 200,
+        "C2": 120,
+        "C3": 120,
+        "C4": 200,
+        "C5": 120
+      },
+      "total": 760,
+      "rationale": "Avaliação da perspectiva linguística: Identificados 0 desvios gramaticais em C1. Presença de 3 conectivos interparágrafos em C4. Vocabulário com índice de riqueza lexical TTR=0.90."
+    },
+    "examiner_beta": {
+      "examiner_name": "Examinador Beta",
+      "focus": "Compreensão Temática (C2), Projeto de Texto (C3) e Proposta de Intervenção (C5)",
+      "scores": {
+        "C1": 200,
+        "C2": 200,
+        "C3": 120,
+        "C4": 200,
+        "C5": 120
+      },
+      "total": 840,
+      "rationale": "Avaliação da perspectiva temático-argumentativa: Localizados 2 repertórios socioculturais. Cobertura temática validada (2/7 termos centrais). Proposta de intervenção identificou 3/5 elementos obrigatórios."
+    },
+    "discrepancy_report": {
+      "has_discrepancy": false,
+      "discrepant_competencies": [],
+      "total_diff": 80,
+      "auditor_intervened": false,
+      "final_decision_summary": "Concordância plena entre Examinadores Alfa e Beta (Diferença de 80 pts dentro da margem oficial). Média aritmética INEP aplicada."
+    },
+    "annotations": [
+      {
+        "id": "ann-c5-praise-agent-251",
+        "competency": "C5",
+        "severity": "elogio",
+        "range": {
+          "start": 251,
+          "end": 308,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "cabe ao Ministério da Educação criar oficinas nas escolas",
+        "title": "Elemento Identificado: Agente (Comp. 5)",
+        "description": "Agente executor da proposta claramente especificado.",
+        "layperson_tip": "Excelente! Você indicou QUEM deve agir para resolver o problema.",
+        "suggested_fix": null,
+        "benchmark_comparison": "O agente bem determinado garante os primeiros 40 pontos da Competência 5."
+      },
+      {
+        "id": "ann-c5-missing-medium-241",
+        "competency": "C5",
+        "severity": "erro",
+        "range": {
+          "start": 241,
+          "end": 321,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "Portanto, cabe ao Ministério da Educação criar oficinas nas escolas, a fim de co",
+        "title": "Elemento Ausente: Modo / Meio (Comp. 5)",
+        "description": "A proposta não detalha COMO a ação será posta em prática.",
+        "layperson_tip": "Explique o meio ou método usando 'por meio de...' ou 'mediante...'.",
+        "suggested_fix": "por intermédio do direcionamento prioritário de verbas orçamentárias e capacitação profissional,",
+        "benchmark_comparison": "O meio/modo é requisito obrigatório na cartilha do corretor do INEP."
+      },
+      {
+        "id": "ann-c5-missing-detail-241",
+        "competency": "C5",
+        "severity": "atencao",
+        "range": {
+          "start": 241,
+          "end": 311,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "Portanto, cabe ao Ministério da Educação criar oficinas nas escolas, a",
+        "title": "Elemento Ausente: Detalhamento (Comp. 5)",
+        "description": "Faltou detalhar um dos 4 elementos da proposta (explicar a função do agente ou exemplificar o meio).",
+        "layperson_tip": "Acrescente uma explicação entre vírgulas para o agente ou para o meio. Ex: 'Ministério da Saúde, pasta responsável pela política pública preventiva...'",
+        "suggested_fix": "órgão responsável pela formulação das políticas de proteção coletiva,",
+        "benchmark_comparison": "A falta de detalhamento é a causa mais comum de redações ficarem com 160 pontos na C5."
+      }
+    ],
+    "metrics": {
+      "total_words": 48,
+      "total_paragraphs": 4,
+      "total_sentences": 4,
+      "avg_words_per_sentence": 12.0,
+      "avg_words_per_paragraph": 12.0,
+      "type_token_ratio": 0.8958,
+      "interparagraph_connectors_count": 3,
+      "interparagraph_connectors_found": [
+        "Parágrafo 2: Em primeira análise, a negligê...",
+        "Parágrafo 3: Ademais, a cumplicidade social...",
+        "Parágrafo 4: Portanto, cabe ao Ministério d..."
+      ],
+      "c5_elements_present": {
+        "agente": true,
+        "acao": true,
+        "meio": false,
+        "efeito": true,
+        "detalhamento": false
+      }
+    },
+    "pedagogical_summary": {
+      "greeting": "Muito bom trabalho! Sua base de redação é sólida e você já domina a estrutura fundamental do texto.",
+      "overall_verdict": "Você tem ótimas ideias. O segredo agora é organizar melhor as palavras de ligação e aprofundar os exemplos.",
+      "greatest_strength": "Domínio da Norma Culta da Língua Portuguesa (200/200): Você demonstrou forte segurança neste critério.",
+      "primary_focus_area": "Proposta de Intervenção Social e Cidadã (120/200): Focando aqui, você tem potencial imediato de subir sua nota.",
+      "suggested_action_plan": [
+        "Na conclusão, responda às 5 perguntinhas: Quem faz? O que faz? Como faz? Para que faz? E dê um detalhe extra.",
+        "Explore a redação nota 1000 sobre 'Invisibilidade do trabalho de cuidado realizado pela mulher no Brasil' no Explorador Raio-X para ver na prática como estruturar o parágrafo.",
+        "Clique no botão 'Aplicar Correção' nos cartões destacados do seu texto para ver a frase melhorada instantaneamente."
+      ],
+      "inspirational_quote": "'A escrita não é fruto de mágica, mas de técnica e persistência.' — Boa prática rumo à nota 1000!"
+    },
+    "similar_benchmarks": [
+      "red-1000-2023-011",
+      "red-1000-2023-012",
+      "red-1000-2023-013"
+    ]
+  },
+  {
+    "id": "corr-712f27bcfa",
+    "timestamp": "2026-10-15T17:26:00.882803",
+    "profile_id": "default",
+    "theme": "Invisibilidade do trabalho de cuidado realizado pela mulher no Brasil",
+    "text": "Na obra Casa-Grande e Senzala, o sociólogo expõe as raízes patriarcais da sociedade.\n\nEm primeira análise, a negligência governamental agrava essa problemática.\n\nAdemais, a cumplicidade social reforça a invisibilidade do trabalho feminino.\n\nPortanto, cabe ao Ministério da Educação criar oficinas nas escolas, a fim de conscientizar a juventude.",
+    "total_score": 800,
+    "competency_scores": {
+      "C1": {
+        "competency": "C1",
+        "name": "Domínio da Norma Culta da Língua Portuguesa",
+        "score": 200,
+        "level": 5,
+        "description": "Excelente domínio da modalidade escrita formal, com no máximo dois desvios gramaticais leves tolerados.",
+        "strengths": [
+          "Excelente pontuação em C1 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C2": {
+        "competency": "C2",
+        "name": "Compreensão da Proposta e Repertório Sociocultural",
+        "score": 160,
+        "level": 4,
+        "description": "Repertório legitimado e pertinente ao tema, com desenvolvimento produtivo razoável.",
+        "strengths": [
+          "Excelente pontuação em C2 (160/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C3": {
+        "competency": "C3",
+        "name": "Projeto de Texto e Consistência Argumentativa",
+        "score": 120,
+        "level": 3,
+        "description": "Projeto de texto com algumas falhas, apresentando argumentos pertinentes mas com desenvolvimento superficial.",
+        "strengths": [],
+        "improvements": [
+          "Oportunidade de elevar C3 de 120 para 200 pontos."
+        ],
+        "evidence": []
+      },
+      "C4": {
+        "competency": "C4",
+        "name": "Mecanismos Linguísticos de Coesão",
+        "score": 200,
+        "level": 5,
+        "description": "Uso expressivo e diversificado de recursos coesivos inter e intraparágrafos, sem repetições viciosas.",
+        "strengths": [
+          "Excelente pontuação em C4 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C5": {
+        "competency": "C5",
+        "name": "Proposta de Intervenção Social e Cidadã",
+        "score": 120,
+        "level": 3,
+        "description": "Presença de 3 elementos válidos da proposta de intervenção.",
+        "strengths": [],
+        "improvements": [
+          "Oportunidade de elevar C5 de 120 para 200 pontos."
+        ],
+        "evidence": []
+      }
+    },
+    "examiner_alfa": {
+      "examiner_name": "Examinador Alfa",
+      "focus": "Norma Culta da Língua Escrita (C1) e Mecanismos de Coesão (C4)",
+      "scores": {
+        "C1": 200,
+        "C2": 120,
+        "C3": 120,
+        "C4": 200,
+        "C5": 120
+      },
+      "total": 760,
+      "rationale": "Avaliação da perspectiva linguística: Identificados 0 desvios gramaticais em C1. Presença de 3 conectivos interparágrafos em C4. Vocabulário com índice de riqueza lexical TTR=0.90."
+    },
+    "examiner_beta": {
+      "examiner_name": "Examinador Beta",
+      "focus": "Compreensão Temática (C2), Projeto de Texto (C3) e Proposta de Intervenção (C5)",
+      "scores": {
+        "C1": 200,
+        "C2": 200,
+        "C3": 120,
+        "C4": 200,
+        "C5": 120
+      },
+      "total": 840,
+      "rationale": "Avaliação da perspectiva temático-argumentativa: Localizados 2 repertórios socioculturais. Cobertura temática validada (2/7 termos centrais). Proposta de intervenção identificou 3/5 elementos obrigatórios."
+    },
+    "discrepancy_report": {
+      "has_discrepancy": false,
+      "discrepant_competencies": [],
+      "total_diff": 80,
+      "auditor_intervened": false,
+      "final_decision_summary": "Concordância plena entre Examinadores Alfa e Beta (Diferença de 80 pts dentro da margem oficial). Média aritmética INEP aplicada."
+    },
+    "annotations": [
+      {
+        "id": "ann-c5-praise-agent-251",
+        "competency": "C5",
+        "severity": "elogio",
+        "range": {
+          "start": 251,
+          "end": 308,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "cabe ao Ministério da Educação criar oficinas nas escolas",
+        "title": "Elemento Identificado: Agente (Comp. 5)",
+        "description": "Agente executor da proposta claramente especificado.",
+        "layperson_tip": "Excelente! Você indicou QUEM deve agir para resolver o problema.",
+        "suggested_fix": null,
+        "benchmark_comparison": "O agente bem determinado garante os primeiros 40 pontos da Competência 5."
+      },
+      {
+        "id": "ann-c5-missing-medium-241",
+        "competency": "C5",
+        "severity": "erro",
+        "range": {
+          "start": 241,
+          "end": 321,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "Portanto, cabe ao Ministério da Educação criar oficinas nas escolas, a fim de co",
+        "title": "Elemento Ausente: Modo / Meio (Comp. 5)",
+        "description": "A proposta não detalha COMO a ação será posta em prática.",
+        "layperson_tip": "Explique o meio ou método usando 'por meio de...' ou 'mediante...'.",
+        "suggested_fix": "por intermédio do direcionamento prioritário de verbas orçamentárias e capacitação profissional,",
+        "benchmark_comparison": "O meio/modo é requisito obrigatório na cartilha do corretor do INEP."
+      },
+      {
+        "id": "ann-c5-missing-detail-241",
+        "competency": "C5",
+        "severity": "atencao",
+        "range": {
+          "start": 241,
+          "end": 311,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "Portanto, cabe ao Ministério da Educação criar oficinas nas escolas, a",
+        "title": "Elemento Ausente: Detalhamento (Comp. 5)",
+        "description": "Faltou detalhar um dos 4 elementos da proposta (explicar a função do agente ou exemplificar o meio).",
+        "layperson_tip": "Acrescente uma explicação entre vírgulas para o agente ou para o meio. Ex: 'Ministério da Saúde, pasta responsável pela política pública preventiva...'",
+        "suggested_fix": "órgão responsável pela formulação das políticas de proteção coletiva,",
+        "benchmark_comparison": "A falta de detalhamento é a causa mais comum de redações ficarem com 160 pontos na C5."
+      }
+    ],
+    "metrics": {
+      "total_words": 48,
+      "total_paragraphs": 4,
+      "total_sentences": 4,
+      "avg_words_per_sentence": 12.0,
+      "avg_words_per_paragraph": 12.0,
+      "type_token_ratio": 0.8958,
+      "interparagraph_connectors_count": 3,
+      "interparagraph_connectors_found": [
+        "Parágrafo 2: Em primeira análise, a negligê...",
+        "Parágrafo 3: Ademais, a cumplicidade social...",
+        "Parágrafo 4: Portanto, cabe ao Ministério d..."
+      ],
+      "c5_elements_present": {
+        "agente": true,
+        "acao": true,
+        "meio": false,
+        "efeito": true,
+        "detalhamento": false
+      }
+    },
+    "pedagogical_summary": {
+      "greeting": "Muito bom trabalho! Sua base de redação é sólida e você já domina a estrutura fundamental do texto.",
+      "overall_verdict": "Você tem ótimas ideias. O segredo agora é organizar melhor as palavras de ligação e aprofundar os exemplos.",
+      "greatest_strength": "Domínio da Norma Culta da Língua Portuguesa (200/200): Você demonstrou forte segurança neste critério.",
+      "primary_focus_area": "Proposta de Intervenção Social e Cidadã (120/200): Focando aqui, você tem potencial imediato de subir sua nota.",
+      "suggested_action_plan": [
+        "Na conclusão, responda às 5 perguntinhas: Quem faz? O que faz? Como faz? Para que faz? E dê um detalhe extra.",
+        "Explore a redação nota 1000 sobre 'Invisibilidade do trabalho de cuidado realizado pela mulher no Brasil' no Explorador Raio-X para ver na prática como estruturar o parágrafo.",
+        "Clique no botão 'Aplicar Correção' nos cartões destacados do seu texto para ver a frase melhorada instantaneamente."
+      ],
+      "inspirational_quote": "'A escrita não é fruto de mágica, mas de técnica e persistência.' — Boa prática rumo à nota 1000!"
+    },
+    "similar_benchmarks": [
+      "red-1000-2023-011",
+      "red-1000-2023-012",
+      "red-1000-2023-013"
+    ]
+  },
+  {
+    "id": "corr-a003f0ce85",
+    "timestamp": "2026-10-15T17:35:45.159744",
+    "profile_id": "default",
+    "theme": "Invisibilidade do trabalho de cuidado realizado pela mulher no Brasil",
+    "text": "Na obra Casa-Grande e Senzala, o sociólogo expõe as raízes patriarcais da sociedade.\n\nEm primeira análise, a negligência governamental agrava essa problemática.\n\nAdemais, a cumplicidade social reforça a invisibilidade do trabalho feminino.\n\nPortanto, cabe ao Ministério da Educação criar oficinas nas escolas, a fim de conscientizar a juventude.",
+    "total_score": 800,
+    "competency_scores": {
+      "C1": {
+        "competency": "C1",
+        "name": "Domínio da Norma Culta da Língua Portuguesa",
+        "score": 200,
+        "level": 5,
+        "description": "Excelente domínio da modalidade escrita formal, com no máximo dois desvios gramaticais leves tolerados.",
+        "strengths": [
+          "Excelente pontuação em C1 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C2": {
+        "competency": "C2",
+        "name": "Compreensão da Proposta e Repertório Sociocultural",
+        "score": 160,
+        "level": 4,
+        "description": "Repertório legitimado e pertinente ao tema, com desenvolvimento produtivo razoável.",
+        "strengths": [
+          "Excelente pontuação em C2 (160/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C3": {
+        "competency": "C3",
+        "name": "Projeto de Texto e Consistência Argumentativa",
+        "score": 120,
+        "level": 3,
+        "description": "Projeto de texto com algumas falhas, apresentando argumentos pertinentes mas com desenvolvimento superficial.",
+        "strengths": [],
+        "improvements": [
+          "Oportunidade de elevar C3 de 120 para 200 pontos."
+        ],
+        "evidence": []
+      },
+      "C4": {
+        "competency": "C4",
+        "name": "Mecanismos Linguísticos de Coesão",
+        "score": 200,
+        "level": 5,
+        "description": "Uso expressivo e diversificado de recursos coesivos inter e intraparágrafos, sem repetições viciosas.",
+        "strengths": [
+          "Excelente pontuação em C4 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C5": {
+        "competency": "C5",
+        "name": "Proposta de Intervenção Social e Cidadã",
+        "score": 120,
+        "level": 3,
+        "description": "Presença de 3 elementos válidos da proposta de intervenção.",
+        "strengths": [],
+        "improvements": [
+          "Oportunidade de elevar C5 de 120 para 200 pontos."
+        ],
+        "evidence": []
+      }
+    },
+    "examiner_alfa": {
+      "examiner_name": "Examinador Alfa",
+      "focus": "Norma Culta da Língua Escrita (C1) e Mecanismos de Coesão (C4)",
+      "scores": {
+        "C1": 200,
+        "C2": 120,
+        "C3": 120,
+        "C4": 200,
+        "C5": 120
+      },
+      "total": 760,
+      "rationale": "Avaliação da perspectiva linguística: Identificados 0 desvios gramaticais em C1. Presença de 3 conectivos interparágrafos em C4. Vocabulário com índice de riqueza lexical TTR=0.90."
+    },
+    "examiner_beta": {
+      "examiner_name": "Examinador Beta",
+      "focus": "Compreensão Temática (C2), Projeto de Texto (C3) e Proposta de Intervenção (C5)",
+      "scores": {
+        "C1": 200,
+        "C2": 200,
+        "C3": 120,
+        "C4": 200,
+        "C5": 120
+      },
+      "total": 840,
+      "rationale": "Avaliação da perspectiva temático-argumentativa: Localizados 2 repertórios socioculturais. Cobertura temática validada (2/7 termos centrais). Proposta de intervenção identificou 3/5 elementos obrigatórios."
+    },
+    "discrepancy_report": {
+      "has_discrepancy": false,
+      "discrepant_competencies": [],
+      "total_diff": 80,
+      "auditor_intervened": false,
+      "final_decision_summary": "Concordância plena entre Examinadores Alfa e Beta (Diferença de 80 pts dentro da margem oficial). Média aritmética INEP aplicada."
+    },
+    "annotations": [
+      {
+        "id": "ann-c5-praise-agent-251",
+        "competency": "C5",
+        "severity": "elogio",
+        "range": {
+          "start": 251,
+          "end": 308,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "cabe ao Ministério da Educação criar oficinas nas escolas",
+        "title": "Elemento Identificado: Agente (Comp. 5)",
+        "description": "Agente executor da proposta claramente especificado.",
+        "layperson_tip": "Excelente! Você indicou QUEM deve agir para resolver o problema.",
+        "suggested_fix": null,
+        "benchmark_comparison": "O agente bem determinado garante os primeiros 40 pontos da Competência 5."
+      },
+      {
+        "id": "ann-c5-missing-medium-241",
+        "competency": "C5",
+        "severity": "erro",
+        "range": {
+          "start": 241,
+          "end": 321,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "Portanto, cabe ao Ministério da Educação criar oficinas nas escolas, a fim de co",
+        "title": "Elemento Ausente: Modo / Meio (Comp. 5)",
+        "description": "A proposta não detalha COMO a ação será posta em prática.",
+        "layperson_tip": "Explique o meio ou método usando 'por meio de...' ou 'mediante...'.",
+        "suggested_fix": "por intermédio do direcionamento prioritário de verbas orçamentárias e capacitação profissional,",
+        "benchmark_comparison": "O meio/modo é requisito obrigatório na cartilha do corretor do INEP."
+      },
+      {
+        "id": "ann-c5-missing-detail-241",
+        "competency": "C5",
+        "severity": "atencao",
+        "range": {
+          "start": 241,
+          "end": 311,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "Portanto, cabe ao Ministério da Educação criar oficinas nas escolas, a",
+        "title": "Elemento Ausente: Detalhamento (Comp. 5)",
+        "description": "Faltou detalhar um dos 4 elementos da proposta (explicar a função do agente ou exemplificar o meio).",
+        "layperson_tip": "Acrescente uma explicação entre vírgulas para o agente ou para o meio. Ex: 'Ministério da Saúde, pasta responsável pela política pública preventiva...'",
+        "suggested_fix": "órgão responsável pela formulação das políticas de proteção coletiva,",
+        "benchmark_comparison": "A falta de detalhamento é a causa mais comum de redações ficarem com 160 pontos na C5."
+      }
+    ],
+    "metrics": {
+      "total_words": 48,
+      "total_paragraphs": 4,
+      "total_sentences": 4,
+      "avg_words_per_sentence": 12.0,
+      "avg_words_per_paragraph": 12.0,
+      "type_token_ratio": 0.8958,
+      "interparagraph_connectors_count": 3,
+      "interparagraph_connectors_found": [
+        "Parágrafo 2: Em primeira análise, a negligê...",
+        "Parágrafo 3: Ademais, a cumplicidade social...",
+        "Parágrafo 4: Portanto, cabe ao Ministério d..."
+      ],
+      "c5_elements_present": {
+        "agente": true,
+        "acao": true,
+        "meio": false,
+        "efeito": true,
+        "detalhamento": false
+      }
+    },
+    "pedagogical_summary": {
+      "greeting": "Muito bom trabalho! Sua base de redação é sólida e você já domina a estrutura fundamental do texto.",
+      "overall_verdict": "Você tem ótimas ideias. O segredo agora é organizar melhor as palavras de ligação e aprofundar os exemplos.",
+      "greatest_strength": "Domínio da Norma Culta da Língua Portuguesa (200/200): Você demonstrou forte segurança neste critério.",
+      "primary_focus_area": "Proposta de Intervenção Social e Cidadã (120/200): Focando aqui, você tem potencial imediato de subir sua nota.",
+      "suggested_action_plan": [
+        "Na conclusão, responda às 5 perguntinhas: Quem faz? O que faz? Como faz? Para que faz? E dê um detalhe extra.",
+        "Explore a redação nota 1000 sobre 'Invisibilidade do trabalho de cuidado realizado pela mulher no Brasil' no Explorador Raio-X para ver na prática como estruturar o parágrafo.",
+        "Clique no botão 'Aplicar Correção' nos cartões destacados do seu texto para ver a frase melhorada instantaneamente."
+      ],
+      "inspirational_quote": "'A escrita não é fruto de mágica, mas de técnica e persistência.' — Boa prática rumo à nota 1000!"
+    },
+    "similar_benchmarks": [
+      "red-1000-2023-011",
+      "red-1000-2023-012",
+      "red-1000-2023-013"
+    ]
+  },
+  {
+    "id": "corr-e690622ece",
+    "timestamp": "2026-10-15T17:36:07.126616",
+    "profile_id": "default",
+    "theme": "Invisibilidade do trabalho de cuidado realizado pela mulher no Brasil",
+    "text": "Na obra Casa-Grande e Senzala, o sociólogo expõe as raízes patriarcais da sociedade.\n\nEm primeira análise, a negligência governamental agrava essa problemática.\n\nAdemais, a cumplicidade social reforça a invisibilidade do trabalho feminino.\n\nPortanto, cabe ao Ministério da Educação criar oficinas nas escolas, a fim de conscientizar a juventude.",
+    "total_score": 800,
+    "competency_scores": {
+      "C1": {
+        "competency": "C1",
+        "name": "Domínio da Norma Culta da Língua Portuguesa",
+        "score": 200,
+        "level": 5,
+        "description": "Excelente domínio da modalidade escrita formal, com no máximo dois desvios gramaticais leves tolerados.",
+        "strengths": [
+          "Excelente pontuação em C1 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C2": {
+        "competency": "C2",
+        "name": "Compreensão da Proposta e Repertório Sociocultural",
+        "score": 160,
+        "level": 4,
+        "description": "Repertório legitimado e pertinente ao tema, com desenvolvimento produtivo razoável.",
+        "strengths": [
+          "Excelente pontuação em C2 (160/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C3": {
+        "competency": "C3",
+        "name": "Projeto de Texto e Consistência Argumentativa",
+        "score": 120,
+        "level": 3,
+        "description": "Projeto de texto com algumas falhas, apresentando argumentos pertinentes mas com desenvolvimento superficial.",
+        "strengths": [],
+        "improvements": [
+          "Oportunidade de elevar C3 de 120 para 200 pontos."
+        ],
+        "evidence": []
+      },
+      "C4": {
+        "competency": "C4",
+        "name": "Mecanismos Linguísticos de Coesão",
+        "score": 200,
+        "level": 5,
+        "description": "Uso expressivo e diversificado de recursos coesivos inter e intraparágrafos, sem repetições viciosas.",
+        "strengths": [
+          "Excelente pontuação em C4 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C5": {
+        "competency": "C5",
+        "name": "Proposta de Intervenção Social e Cidadã",
+        "score": 120,
+        "level": 3,
+        "description": "Presença de 3 elementos válidos da proposta de intervenção.",
+        "strengths": [],
+        "improvements": [
+          "Oportunidade de elevar C5 de 120 para 200 pontos."
+        ],
+        "evidence": []
+      }
+    },
+    "examiner_alfa": {
+      "examiner_name": "Examinador Alfa",
+      "focus": "Norma Culta da Língua Escrita (C1) e Mecanismos de Coesão (C4)",
+      "scores": {
+        "C1": 200,
+        "C2": 120,
+        "C3": 120,
+        "C4": 200,
+        "C5": 120
+      },
+      "total": 760,
+      "rationale": "Avaliação da perspectiva linguística: Identificados 0 desvios gramaticais em C1. Presença de 3 conectivos interparágrafos em C4. Vocabulário com índice de riqueza lexical TTR=0.90."
+    },
+    "examiner_beta": {
+      "examiner_name": "Examinador Beta",
+      "focus": "Compreensão Temática (C2), Projeto de Texto (C3) e Proposta de Intervenção (C5)",
+      "scores": {
+        "C1": 200,
+        "C2": 200,
+        "C3": 120,
+        "C4": 200,
+        "C5": 120
+      },
+      "total": 840,
+      "rationale": "Avaliação da perspectiva temático-argumentativa: Localizados 2 repertórios socioculturais. Cobertura temática validada (2/7 termos centrais). Proposta de intervenção identificou 3/5 elementos obrigatórios."
+    },
+    "discrepancy_report": {
+      "has_discrepancy": false,
+      "discrepant_competencies": [],
+      "total_diff": 80,
+      "auditor_intervened": false,
+      "final_decision_summary": "Concordância plena entre Examinadores Alfa e Beta (Diferença de 80 pts dentro da margem oficial). Média aritmética INEP aplicada."
+    },
+    "annotations": [
+      {
+        "id": "ann-c5-praise-agent-251",
+        "competency": "C5",
+        "severity": "elogio",
+        "range": {
+          "start": 251,
+          "end": 308,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "cabe ao Ministério da Educação criar oficinas nas escolas",
+        "title": "Elemento Identificado: Agente (Comp. 5)",
+        "description": "Agente executor da proposta claramente especificado.",
+        "layperson_tip": "Excelente! Você indicou QUEM deve agir para resolver o problema.",
+        "suggested_fix": null,
+        "benchmark_comparison": "O agente bem determinado garante os primeiros 40 pontos da Competência 5."
+      },
+      {
+        "id": "ann-c5-missing-medium-241",
+        "competency": "C5",
+        "severity": "erro",
+        "range": {
+          "start": 241,
+          "end": 321,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "Portanto, cabe ao Ministério da Educação criar oficinas nas escolas, a fim de co",
+        "title": "Elemento Ausente: Modo / Meio (Comp. 5)",
+        "description": "A proposta não detalha COMO a ação será posta em prática.",
+        "layperson_tip": "Explique o meio ou método usando 'por meio de...' ou 'mediante...'.",
+        "suggested_fix": "por intermédio do direcionamento prioritário de verbas orçamentárias e capacitação profissional,",
+        "benchmark_comparison": "O meio/modo é requisito obrigatório na cartilha do corretor do INEP."
+      },
+      {
+        "id": "ann-c5-missing-detail-241",
+        "competency": "C5",
+        "severity": "atencao",
+        "range": {
+          "start": 241,
+          "end": 311,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "Portanto, cabe ao Ministério da Educação criar oficinas nas escolas, a",
+        "title": "Elemento Ausente: Detalhamento (Comp. 5)",
+        "description": "Faltou detalhar um dos 4 elementos da proposta (explicar a função do agente ou exemplificar o meio).",
+        "layperson_tip": "Acrescente uma explicação entre vírgulas para o agente ou para o meio. Ex: 'Ministério da Saúde, pasta responsável pela política pública preventiva...'",
+        "suggested_fix": "órgão responsável pela formulação das políticas de proteção coletiva,",
+        "benchmark_comparison": "A falta de detalhamento é a causa mais comum de redações ficarem com 160 pontos na C5."
+      }
+    ],
+    "metrics": {
+      "total_words": 48,
+      "total_paragraphs": 4,
+      "total_sentences": 4,
+      "avg_words_per_sentence": 12.0,
+      "avg_words_per_paragraph": 12.0,
+      "type_token_ratio": 0.8958,
+      "interparagraph_connectors_count": 3,
+      "interparagraph_connectors_found": [
+        "Parágrafo 2: Em primeira análise, a negligê...",
+        "Parágrafo 3: Ademais, a cumplicidade social...",
+        "Parágrafo 4: Portanto, cabe ao Ministério d..."
+      ],
+      "c5_elements_present": {
+        "agente": true,
+        "acao": true,
+        "meio": false,
+        "efeito": true,
+        "detalhamento": false
+      }
+    },
+    "pedagogical_summary": {
+      "greeting": "Muito bom trabalho! Sua base de redação é sólida e você já domina a estrutura fundamental do texto.",
+      "overall_verdict": "Você tem ótimas ideias. O segredo agora é organizar melhor as palavras de ligação e aprofundar os exemplos.",
+      "greatest_strength": "Domínio da Norma Culta da Língua Portuguesa (200/200): Você demonstrou forte segurança neste critério.",
+      "primary_focus_area": "Proposta de Intervenção Social e Cidadã (120/200): Focando aqui, você tem potencial imediato de subir sua nota.",
+      "suggested_action_plan": [
+        "Na conclusão, responda às 5 perguntinhas: Quem faz? O que faz? Como faz? Para que faz? E dê um detalhe extra.",
+        "Explore a redação nota 1000 sobre 'Invisibilidade do trabalho de cuidado realizado pela mulher no Brasil' no Explorador Raio-X para ver na prática como estruturar o parágrafo.",
+        "Clique no botão 'Aplicar Correção' nos cartões destacados do seu texto para ver a frase melhorada instantaneamente."
+      ],
+      "inspirational_quote": "'A escrita não é fruto de mágica, mas de técnica e persistência.' — Boa prática rumo à nota 1000!"
+    },
+    "similar_benchmarks": [
+      "red-1000-2023-011",
+      "red-1000-2023-012",
+      "red-1000-2023-013"
+    ]
+  },
+  {
+    "id": "corr-ed5e381d8d",
+    "timestamp": "2026-10-15T17:36:24.304006",
+    "profile_id": "default",
+    "theme": "Invisibilidade do trabalho de cuidado realizado pela mulher no Brasil",
+    "text": "Na obra Casa-Grande e Senzala, o sociólogo expõe as raízes patriarcais da sociedade.\n\nEm primeira análise, a negligência governamental agrava essa problemática.\n\nAdemais, a cumplicidade social reforça a invisibilidade do trabalho feminino.\n\nPortanto, cabe ao Ministério da Educação criar oficinas nas escolas, a fim de conscientizar a juventude.",
+    "total_score": 800,
+    "competency_scores": {
+      "C1": {
+        "competency": "C1",
+        "name": "Domínio da Norma Culta da Língua Portuguesa",
+        "score": 200,
+        "level": 5,
+        "description": "Excelente domínio da modalidade escrita formal, com no máximo dois desvios gramaticais leves tolerados.",
+        "strengths": [
+          "Excelente pontuação em C1 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C2": {
+        "competency": "C2",
+        "name": "Compreensão da Proposta e Repertório Sociocultural",
+        "score": 160,
+        "level": 4,
+        "description": "Repertório legitimado e pertinente ao tema, com desenvolvimento produtivo razoável.",
+        "strengths": [
+          "Excelente pontuação em C2 (160/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C3": {
+        "competency": "C3",
+        "name": "Projeto de Texto e Consistência Argumentativa",
+        "score": 120,
+        "level": 3,
+        "description": "Projeto de texto com algumas falhas, apresentando argumentos pertinentes mas com desenvolvimento superficial.",
+        "strengths": [],
+        "improvements": [
+          "Oportunidade de elevar C3 de 120 para 200 pontos."
+        ],
+        "evidence": []
+      },
+      "C4": {
+        "competency": "C4",
+        "name": "Mecanismos Linguísticos de Coesão",
+        "score": 200,
+        "level": 5,
+        "description": "Uso expressivo e diversificado de recursos coesivos inter e intraparágrafos, sem repetições viciosas.",
+        "strengths": [
+          "Excelente pontuação em C4 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C5": {
+        "competency": "C5",
+        "name": "Proposta de Intervenção Social e Cidadã",
+        "score": 120,
+        "level": 3,
+        "description": "Presença de 3 elementos válidos da proposta de intervenção.",
+        "strengths": [],
+        "improvements": [
+          "Oportunidade de elevar C5 de 120 para 200 pontos."
+        ],
+        "evidence": []
+      }
+    },
+    "examiner_alfa": {
+      "examiner_name": "Examinador Alfa",
+      "focus": "Norma Culta da Língua Escrita (C1) e Mecanismos de Coesão (C4)",
+      "scores": {
+        "C1": 200,
+        "C2": 120,
+        "C3": 120,
+        "C4": 200,
+        "C5": 120
+      },
+      "total": 760,
+      "rationale": "Avaliação da perspectiva linguística: Identificados 0 desvios gramaticais em C1. Presença de 3 conectivos interparágrafos em C4. Vocabulário com índice de riqueza lexical TTR=0.90."
+    },
+    "examiner_beta": {
+      "examiner_name": "Examinador Beta",
+      "focus": "Compreensão Temática (C2), Projeto de Texto (C3) e Proposta de Intervenção (C5)",
+      "scores": {
+        "C1": 200,
+        "C2": 200,
+        "C3": 120,
+        "C4": 200,
+        "C5": 120
+      },
+      "total": 840,
+      "rationale": "Avaliação da perspectiva temático-argumentativa: Localizados 2 repertórios socioculturais. Cobertura temática validada (2/7 termos centrais). Proposta de intervenção identificou 3/5 elementos obrigatórios."
+    },
+    "discrepancy_report": {
+      "has_discrepancy": false,
+      "discrepant_competencies": [],
+      "total_diff": 80,
+      "auditor_intervened": false,
+      "final_decision_summary": "Concordância plena entre Examinadores Alfa e Beta (Diferença de 80 pts dentro da margem oficial). Média aritmética INEP aplicada."
+    },
+    "annotations": [
+      {
+        "id": "ann-c5-praise-agent-251",
+        "competency": "C5",
+        "severity": "elogio",
+        "range": {
+          "start": 251,
+          "end": 308,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "cabe ao Ministério da Educação criar oficinas nas escolas",
+        "title": "Elemento Identificado: Agente (Comp. 5)",
+        "description": "Agente executor da proposta claramente especificado.",
+        "layperson_tip": "Excelente! Você indicou QUEM deve agir para resolver o problema.",
+        "suggested_fix": null,
+        "benchmark_comparison": "O agente bem determinado garante os primeiros 40 pontos da Competência 5."
+      },
+      {
+        "id": "ann-c5-missing-medium-241",
+        "competency": "C5",
+        "severity": "erro",
+        "range": {
+          "start": 241,
+          "end": 321,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "Portanto, cabe ao Ministério da Educação criar oficinas nas escolas, a fim de co",
+        "title": "Elemento Ausente: Modo / Meio (Comp. 5)",
+        "description": "A proposta não detalha COMO a ação será posta em prática.",
+        "layperson_tip": "Explique o meio ou método usando 'por meio de...' ou 'mediante...'.",
+        "suggested_fix": "por intermédio do direcionamento prioritário de verbas orçamentárias e capacitação profissional,",
+        "benchmark_comparison": "O meio/modo é requisito obrigatório na cartilha do corretor do INEP."
+      },
+      {
+        "id": "ann-c5-missing-detail-241",
+        "competency": "C5",
+        "severity": "atencao",
+        "range": {
+          "start": 241,
+          "end": 311,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "Portanto, cabe ao Ministério da Educação criar oficinas nas escolas, a",
+        "title": "Elemento Ausente: Detalhamento (Comp. 5)",
+        "description": "Faltou detalhar um dos 4 elementos da proposta (explicar a função do agente ou exemplificar o meio).",
+        "layperson_tip": "Acrescente uma explicação entre vírgulas para o agente ou para o meio. Ex: 'Ministério da Saúde, pasta responsável pela política pública preventiva...'",
+        "suggested_fix": "órgão responsável pela formulação das políticas de proteção coletiva,",
+        "benchmark_comparison": "A falta de detalhamento é a causa mais comum de redações ficarem com 160 pontos na C5."
+      }
+    ],
+    "metrics": {
+      "total_words": 48,
+      "total_paragraphs": 4,
+      "total_sentences": 4,
+      "avg_words_per_sentence": 12.0,
+      "avg_words_per_paragraph": 12.0,
+      "type_token_ratio": 0.8958,
+      "interparagraph_connectors_count": 3,
+      "interparagraph_connectors_found": [
+        "Parágrafo 2: Em primeira análise, a negligê...",
+        "Parágrafo 3: Ademais, a cumplicidade social...",
+        "Parágrafo 4: Portanto, cabe ao Ministério d..."
+      ],
+      "c5_elements_present": {
+        "agente": true,
+        "acao": true,
+        "meio": false,
+        "efeito": true,
+        "detalhamento": false
+      }
+    },
+    "pedagogical_summary": {
+      "greeting": "Muito bom trabalho! Sua base de redação é sólida e você já domina a estrutura fundamental do texto.",
+      "overall_verdict": "Você tem ótimas ideias. O segredo agora é organizar melhor as palavras de ligação e aprofundar os exemplos.",
+      "greatest_strength": "Domínio da Norma Culta da Língua Portuguesa (200/200): Você demonstrou forte segurança neste critério.",
+      "primary_focus_area": "Proposta de Intervenção Social e Cidadã (120/200): Focando aqui, você tem potencial imediato de subir sua nota.",
+      "suggested_action_plan": [
+        "Na conclusão, responda às 5 perguntinhas: Quem faz? O que faz? Como faz? Para que faz? E dê um detalhe extra.",
+        "Explore a redação nota 1000 sobre 'Invisibilidade do trabalho de cuidado realizado pela mulher no Brasil' no Explorador Raio-X para ver na prática como estruturar o parágrafo.",
+        "Clique no botão 'Aplicar Correção' nos cartões destacados do seu texto para ver a frase melhorada instantaneamente."
+      ],
+      "inspirational_quote": "'A escrita não é fruto de mágica, mas de técnica e persistência.' — Boa prática rumo à nota 1000!"
+    },
+    "similar_benchmarks": [
+      "red-1000-2023-011",
+      "red-1000-2023-012",
+      "red-1000-2023-013"
+    ]
+  },
+  {
+    "id": "corr-e27de1ebcb",
+    "timestamp": "2026-10-15T17:37:27.703862",
+    "profile_id": "default",
+    "theme": "Invisibilidade do trabalho de cuidado realizado pela mulher no Brasil",
+    "text": "Na obra Casa-Grande e Senzala, o sociólogo expõe as raízes patriarcais da sociedade.\n\nEm primeira análise, a negligência governamental agrava essa problemática.\n\nAdemais, a cumplicidade social reforça a invisibilidade do trabalho feminino.\n\nPortanto, cabe ao Ministério da Educação criar oficinas nas escolas, a fim de conscientizar a juventude.",
+    "total_score": 800,
+    "competency_scores": {
+      "C1": {
+        "competency": "C1",
+        "name": "Domínio da Norma Culta da Língua Portuguesa",
+        "score": 200,
+        "level": 5,
+        "description": "Excelente domínio da modalidade escrita formal, com no máximo dois desvios gramaticais leves tolerados.",
+        "strengths": [
+          "Excelente pontuação em C1 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C2": {
+        "competency": "C2",
+        "name": "Compreensão da Proposta e Repertório Sociocultural",
+        "score": 160,
+        "level": 4,
+        "description": "Repertório legitimado e pertinente ao tema, com desenvolvimento produtivo razoável.",
+        "strengths": [
+          "Excelente pontuação em C2 (160/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C3": {
+        "competency": "C3",
+        "name": "Projeto de Texto e Consistência Argumentativa",
+        "score": 120,
+        "level": 3,
+        "description": "Projeto de texto com algumas falhas, apresentando argumentos pertinentes mas com desenvolvimento superficial.",
+        "strengths": [],
+        "improvements": [
+          "Oportunidade de elevar C3 de 120 para 200 pontos."
+        ],
+        "evidence": []
+      },
+      "C4": {
+        "competency": "C4",
+        "name": "Mecanismos Linguísticos de Coesão",
+        "score": 200,
+        "level": 5,
+        "description": "Uso expressivo e diversificado de recursos coesivos inter e intraparágrafos, sem repetições viciosas.",
+        "strengths": [
+          "Excelente pontuação em C4 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C5": {
+        "competency": "C5",
+        "name": "Proposta de Intervenção Social e Cidadã",
+        "score": 120,
+        "level": 3,
+        "description": "Presença de 3 elementos válidos da proposta de intervenção.",
+        "strengths": [],
+        "improvements": [
+          "Oportunidade de elevar C5 de 120 para 200 pontos."
+        ],
+        "evidence": []
+      }
+    },
+    "examiner_alfa": {
+      "examiner_name": "Examinador Alfa",
+      "focus": "Norma Culta da Língua Escrita (C1) e Mecanismos de Coesão (C4)",
+      "scores": {
+        "C1": 200,
+        "C2": 120,
+        "C3": 120,
+        "C4": 200,
+        "C5": 120
+      },
+      "total": 760,
+      "rationale": "Avaliação da perspectiva linguística: Identificados 0 desvios gramaticais em C1. Presença de 3 conectivos interparágrafos em C4. Vocabulário com índice de riqueza lexical TTR=0.90."
+    },
+    "examiner_beta": {
+      "examiner_name": "Examinador Beta",
+      "focus": "Compreensão Temática (C2), Projeto de Texto (C3) e Proposta de Intervenção (C5)",
+      "scores": {
+        "C1": 200,
+        "C2": 200,
+        "C3": 120,
+        "C4": 200,
+        "C5": 120
+      },
+      "total": 840,
+      "rationale": "Avaliação da perspectiva temático-argumentativa: Localizados 2 repertórios socioculturais. Cobertura temática validada (2/7 termos centrais). Proposta de intervenção identificou 3/5 elementos obrigatórios."
+    },
+    "discrepancy_report": {
+      "has_discrepancy": false,
+      "discrepant_competencies": [],
+      "total_diff": 80,
+      "auditor_intervened": false,
+      "final_decision_summary": "Concordância plena entre Examinadores Alfa e Beta (Diferença de 80 pts dentro da margem oficial). Média aritmética INEP aplicada."
+    },
+    "annotations": [
+      {
+        "id": "ann-c5-praise-agent-251",
+        "competency": "C5",
+        "severity": "elogio",
+        "range": {
+          "start": 251,
+          "end": 308,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "cabe ao Ministério da Educação criar oficinas nas escolas",
+        "title": "Elemento Identificado: Agente (Comp. 5)",
+        "description": "Agente executor da proposta claramente especificado.",
+        "layperson_tip": "Excelente! Você indicou QUEM deve agir para resolver o problema.",
+        "suggested_fix": null,
+        "benchmark_comparison": "O agente bem determinado garante os primeiros 40 pontos da Competência 5."
+      },
+      {
+        "id": "ann-c5-missing-medium-241",
+        "competency": "C5",
+        "severity": "erro",
+        "range": {
+          "start": 241,
+          "end": 321,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "Portanto, cabe ao Ministério da Educação criar oficinas nas escolas, a fim de co",
+        "title": "Elemento Ausente: Modo / Meio (Comp. 5)",
+        "description": "A proposta não detalha COMO a ação será posta em prática.",
+        "layperson_tip": "Explique o meio ou método usando 'por meio de...' ou 'mediante...'.",
+        "suggested_fix": "por intermédio do direcionamento prioritário de verbas orçamentárias e capacitação profissional,",
+        "benchmark_comparison": "O meio/modo é requisito obrigatório na cartilha do corretor do INEP."
+      },
+      {
+        "id": "ann-c5-missing-detail-241",
+        "competency": "C5",
+        "severity": "atencao",
+        "range": {
+          "start": 241,
+          "end": 311,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "Portanto, cabe ao Ministério da Educação criar oficinas nas escolas, a",
+        "title": "Elemento Ausente: Detalhamento (Comp. 5)",
+        "description": "Faltou detalhar um dos 4 elementos da proposta (explicar a função do agente ou exemplificar o meio).",
+        "layperson_tip": "Acrescente uma explicação entre vírgulas para o agente ou para o meio. Ex: 'Ministério da Saúde, pasta responsável pela política pública preventiva...'",
+        "suggested_fix": "órgão responsável pela formulação das políticas de proteção coletiva,",
+        "benchmark_comparison": "A falta de detalhamento é a causa mais comum de redações ficarem com 160 pontos na C5."
+      }
+    ],
+    "metrics": {
+      "total_words": 48,
+      "total_paragraphs": 4,
+      "total_sentences": 4,
+      "avg_words_per_sentence": 12.0,
+      "avg_words_per_paragraph": 12.0,
+      "type_token_ratio": 0.8958,
+      "interparagraph_connectors_count": 3,
+      "interparagraph_connectors_found": [
+        "Parágrafo 2: Em primeira análise, a negligê...",
+        "Parágrafo 3: Ademais, a cumplicidade social...",
+        "Parágrafo 4: Portanto, cabe ao Ministério d..."
+      ],
+      "c5_elements_present": {
+        "agente": true,
+        "acao": true,
+        "meio": false,
+        "efeito": true,
+        "detalhamento": false
+      }
+    },
+    "pedagogical_summary": {
+      "greeting": "Muito bom trabalho! Sua base de redação é sólida e você já domina a estrutura fundamental do texto.",
+      "overall_verdict": "Você tem ótimas ideias. O segredo agora é organizar melhor as palavras de ligação e aprofundar os exemplos.",
+      "greatest_strength": "Domínio da Norma Culta da Língua Portuguesa (200/200): Você demonstrou forte segurança neste critério.",
+      "primary_focus_area": "Proposta de Intervenção Social e Cidadã (120/200): Focando aqui, você tem potencial imediato de subir sua nota.",
+      "suggested_action_plan": [
+        "Na conclusão, responda às 5 perguntinhas: Quem faz? O que faz? Como faz? Para que faz? E dê um detalhe extra.",
+        "Explore a redação nota 1000 sobre 'Invisibilidade do trabalho de cuidado realizado pela mulher no Brasil' no Explorador Raio-X para ver na prática como estruturar o parágrafo.",
+        "Clique no botão 'Aplicar Correção' nos cartões destacados do seu texto para ver a frase melhorada instantaneamente."
+      ],
+      "inspirational_quote": "'A escrita não é fruto de mágica, mas de técnica e persistência.' — Boa prática rumo à nota 1000!"
+    },
+    "similar_benchmarks": [
+      "red-1000-2023-011",
+      "red-1000-2023-012",
+      "red-1000-2023-013"
+    ]
+  },
+  {
+    "id": "corr-195f4033dc",
+    "timestamp": "2026-10-15T17:41:51.435212",
+    "profile_id": "default",
+    "theme": "Invisibilidade do trabalho de cuidado realizado pela mulher no Brasil",
+    "text": "Na obra 'Casa-Grande & Senzala', o sociólogo Gilberto Freyre expõe as raízes patriarcais da formação social brasileira, na qual o papel doméstico e de zelo familiar foi historicamente delegado à figura feminina em regime de subordinação. Ao transpor essa perspectiva para o Brasil contemporâneo, percebe-se que a invisibilidade do trabalho de cuidado persiste como grave anomalia estrutural. Desse modo, torna-se imperioso analisar a negligência estatal e o imperativo cultural como motores dessa problemática.\n\nEm primeira análise, cabe pontuar que a inércia estatal atua como vetor preponderante na manutenção do impasse. Segundo o filósofo Thomas Hobbes, o Estado possui a obrigação precípua de assegurar a coesão social e a equidade entre os cidadãos; no entanto, a omissão governamental na regulamentação econômica do trabalho doméstico rompe esse pacto protetivo. Com efeito, a ausência de amparo previdenciário e de creches públicas em tempo integral sobrecarrega as mulheres de classes vulneráveis, impedindo-as de ingressar plenamente no mercado de trabalho formal e aprofundando o ciclo de vulnerabilidade.\n\nAdemais, vale ressaltar que a cumplicidade social reforça a naturalização dessa desigualdade. Sob a ótica da filósofa Simone de Beauvoir em 'O Segundo Sexo', as hierarquias de gênero constituem construções culturais impostas ao longo dos séculos. Nesse sentido, a mentalidade coletiva brasileira ainda concebe os afazeres de zelo e assistência a enfermos como obrigações inerentes à condição feminina, e não como atividades de valor socioeconômico intrínseco. Enquanto persistir essa visão arcaica, a igualdade substancial preconizada pela Constituição de 1988 permanecerá uma utopia inalcançável.\n\nPortanto, medidas interventivas são indispensáveis para mitigar essa mazela histórica. Para tanto, cabe ao Ministério do Desenvolvimento e Assistência Social, órgão responsável pela formulação das políticas de proteção coletiva, instituir o Programa Nacional de Valorização do Cuidado. Essa medida deve ser concretizada por intermédio da criação de auxílios financeiros para cuidadoras não remuneradas e da expansão de creches públicas municipais, a fim de emancipar as mulheres da sobrecarga doméstica e conferir visibilidade econômica a essa atividade. Somente assim, o Brasil garantirá que a dignidade humana seja um direito universal palpável.",
+    "total_score": 1000,
+    "competency_scores": {
+      "C1": {
+        "competency": "C1",
+        "name": "Domínio da Norma Culta da Língua Portuguesa",
+        "score": 200,
+        "level": 5,
+        "description": "Excelente domínio da modalidade escrita formal, com no máximo dois desvios gramaticais leves tolerados.",
+        "strengths": [
+          "Excelente pontuação em C1 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C2": {
+        "competency": "C2",
+        "name": "Compreensão da Proposta e Repertório Sociocultural",
+        "score": 200,
+        "level": 5,
+        "description": "Repertório legitimado, pertinente e produtivo, com excelente desenvolvimento do tema e perfeita dissertação.",
+        "strengths": [
+          "Excelente pontuação em C2 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C3": {
+        "competency": "C3",
+        "name": "Projeto de Texto e Consistência Argumentativa",
+        "score": 200,
+        "level": 5,
+        "description": "Projeto de texto estratégico, consistente e com autoria consolidada, sem quaisquer lacunas argumentativas.",
+        "strengths": [
+          "Excelente pontuação em C3 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C4": {
+        "competency": "C4",
+        "name": "Mecanismos Linguísticos de Coesão",
+        "score": 200,
+        "level": 5,
+        "description": "Uso expressivo e diversificado de recursos coesivos inter e intraparágrafos, sem repetições viciosas.",
+        "strengths": [
+          "Excelente pontuação em C4 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C5": {
+        "competency": "C5",
+        "name": "Proposta de Intervenção Social e Cidadã",
+        "score": 200,
+        "level": 5,
+        "description": "Proposta de intervenção completa com os 5 elementos válidos (Agente, Ação, Meio, Efeito e Detalhamento).",
+        "strengths": [
+          "Excelente pontuação em C5 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      }
+    },
+    "examiner_alfa": {
+      "examiner_name": "Examinador Alfa",
+      "focus": "Norma Culta da Língua Escrita (C1) e Mecanismos de Coesão (C4)",
+      "scores": {
+        "C1": 200,
+        "C2": 200,
+        "C3": 200,
+        "C4": 200,
+        "C5": 200
+      },
+      "total": 1000,
+      "rationale": "Avaliação da perspectiva linguística: Identificados 0 desvios gramaticais em C1. Presença de 3 conectivos interparágrafos em C4. Vocabulário com índice de riqueza lexical TTR=0.66."
+    },
+    "examiner_beta": {
+      "examiner_name": "Examinador Beta",
+      "focus": "Compreensão Temática (C2), Projeto de Texto (C3) e Proposta de Intervenção (C5)",
+      "scores": {
+        "C1": 200,
+        "C2": 200,
+        "C3": 200,
+        "C4": 200,
+        "C5": 200
+      },
+      "total": 1000,
+      "rationale": "Avaliação da perspectiva temático-argumentativa: Localizados 9 repertórios socioculturais. Cobertura temática validada (6/7 termos centrais). Proposta de intervenção identificou 5/5 elementos obrigatórios."
+    },
+    "discrepancy_report": {
+      "has_discrepancy": false,
+      "discrepant_competencies": [],
+      "total_diff": 0,
+      "auditor_intervened": false,
+      "final_decision_summary": "Concordância plena entre Examinadores Alfa e Beta (Diferença de 0 pts dentro da margem oficial). Média aritmética INEP aplicada."
+    },
+    "annotations": [
+      {
+        "id": "ann-c5-praise-agent-1816",
+        "competency": "C5",
+        "severity": "elogio",
+        "range": {
+          "start": 1816,
+          "end": 1874,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "cabe ao Ministério do Desenvolvimento e Assistência Social",
+        "title": "Elemento Identificado: Agente (Comp. 5)",
+        "description": "Agente executor da proposta claramente especificado.",
+        "layperson_tip": "Excelente! Você indicou QUEM deve agir para resolver o problema.",
+        "suggested_fix": null,
+        "benchmark_comparison": "O agente bem determinado garante os primeiros 40 pontos da Competência 5."
+      }
+    ],
+    "metrics": {
+      "total_words": 334,
+      "total_paragraphs": 4,
+      "total_sentences": 14,
+      "avg_words_per_sentence": 23.9,
+      "avg_words_per_paragraph": 83.5,
+      "type_token_ratio": 0.6647,
+      "interparagraph_connectors_count": 3,
+      "interparagraph_connectors_found": [
+        "Parágrafo 2: Em primeira análise, cabe pont...",
+        "Parágrafo 3: Ademais, vale ressaltar que a ...",
+        "Parágrafo 4: Portanto, medidas interventiva..."
+      ],
+      "c5_elements_present": {
+        "agente": true,
+        "acao": true,
+        "meio": true,
+        "efeito": true,
+        "detalhamento": true
+      }
+    },
+    "pedagogical_summary": {
+      "greeting": "Impressionante! Sua redação está no nível de excelência máxima da prova do ENEM.",
+      "overall_verdict": "Seu texto tem a maturidade, a consistência e o brilho dos textos publicados pelo INEP na Cartilha Nota 1000.",
+      "greatest_strength": "Domínio da Norma Culta da Língua Portuguesa (200/200): Você demonstrou forte segurança neste critério.",
+      "primary_focus_area": "Proposta de Intervenção Social e Cidadã (200/200): Focando aqui, você tem potencial imediato de subir sua nota.",
+      "suggested_action_plan": [
+        "Na conclusão, responda às 5 perguntinhas: Quem faz? O que faz? Como faz? Para que faz? E dê um detalhe extra.",
+        "Explore a redação nota 1000 sobre 'Invisibilidade do trabalho de cuidado realizado pela mulher no Brasil' no Explorador Raio-X para ver na prática como estruturar o parágrafo.",
+        "Clique no botão 'Aplicar Correção' nos cartões destacados do seu texto para ver a frase melhorada instantaneamente."
+      ],
+      "inspirational_quote": "'A escrita não é fruto de mágica, mas de técnica e persistência.' — Boa prática rumo à nota 1000!"
+    },
+    "similar_benchmarks": [
+      "red-1000-2023-011",
+      "red-1000-2023-012",
+      "red-1000-2023-013"
+    ]
+  },
+  {
+    "id": "corr-d8abc55d07",
+    "timestamp": "2026-10-15T17:51:42.938307",
+    "profile_id": "default",
+    "theme": "Democratização do acesso ao cinema no Brasil",
+    "text": "O cinema é uma coisa muito legal que diverte todo mundo, mas no Brasil nem todo mundo tem dinheiro pra ir no cinema ver os lançamentos dos filmes que saem toda semana.\n\nHoje em dia os ingressos estão muito caros, e a pipoca custa o olho da cara nos shoppings das capitais, então quem mora no interior ou na favela não consegue levar a família toda pra assistir um filme numa sala boa com ar condicionado e som legal. A cultura fica só para os ricos.\n\nAlém disso, as pessoas preferem ficar em casa assistindo Netflix ou baixando coisa na internet porque é de graça e não precisa pegar ônibus perigoso de noite. O governo não faz nada pra baratear os ingressos nem constrói salas públicas nas praças dos bairros pobres.\n\nTem que mudar isso urgente. O governo e as pessoas tem que se juntar e fazer campanhas para o ingresso ficar mais barato e todo mundo poder ir ao cinema sem gastar tanto dinheiro.",
+    "total_score": 500,
+    "competency_scores": {
+      "C1": {
+        "competency": "C1",
+        "name": "Domínio da Norma Culta da Língua Portuguesa",
+        "score": 60,
+        "level": 1,
+        "description": "Domínio precário da modalidade escrita formal, com desvios gramaticais sistemáticos e diversificados.",
+        "strengths": [],
+        "improvements": [
+          "Oportunidade de elevar C1 de 60 para 200 pontos."
+        ],
+        "evidence": []
+      },
+      "C2": {
+        "competency": "C2",
+        "name": "Compreensão da Proposta e Repertório Sociocultural",
+        "score": 120,
+        "level": 3,
+        "description": "Repertório legitimado, mas não pertinente ao tema, ou pertinente porém improdutivo na argumentação.",
+        "strengths": [],
+        "improvements": [
+          "Oportunidade de elevar C2 de 120 para 200 pontos."
+        ],
+        "evidence": []
+      },
+      "C3": {
+        "competency": "C3",
+        "name": "Projeto de Texto e Consistência Argumentativa",
+        "score": 120,
+        "level": 3,
+        "description": "Projeto de texto com algumas falhas, apresentando argumentos pertinentes mas com desenvolvimento superficial.",
+        "strengths": [],
+        "improvements": [
+          "Oportunidade de elevar C3 de 120 para 200 pontos."
+        ],
+        "evidence": []
+      },
+      "C4": {
+        "competency": "C4",
+        "name": "Mecanismos Linguísticos de Coesão",
+        "score": 160,
+        "level": 4,
+        "description": "Uso diversificado de operadores argumentativos, com poucos desvios e presença regular de coesão interparágrafos.",
+        "strengths": [
+          "Excelente pontuação em C4 (160/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C5": {
+        "competency": "C5",
+        "name": "Proposta de Intervenção Social e Cidadã",
+        "score": 40,
+        "level": 1,
+        "description": "Presença de apenas 1 elemento válido da proposta de intervenção.",
+        "strengths": [],
+        "improvements": [
+          "Oportunidade de elevar C5 de 40 para 200 pontos."
+        ],
+        "evidence": []
+      }
+    },
+    "examiner_alfa": {
+      "examiner_name": "Examinador Alfa",
+      "focus": "Norma Culta da Língua Escrita (C1) e Mecanismos de Coesão (C4)",
+      "scores": {
+        "C1": 40,
+        "C2": 120,
+        "C3": 120,
+        "C4": 160,
+        "C5": 40
+      },
+      "total": 480,
+      "rationale": "Avaliação da perspectiva linguística: Identificados 14 desvios gramaticais em C1. Presença de 1 conectivos interparágrafos em C4. Vocabulário com índice de riqueza lexical TTR=0.70."
+    },
+    "examiner_beta": {
+      "examiner_name": "Examinador Beta",
+      "focus": "Compreensão Temática (C2), Projeto de Texto (C3) e Proposta de Intervenção (C5)",
+      "scores": {
+        "C1": 80,
+        "C2": 120,
+        "C3": 120,
+        "C4": 160,
+        "C5": 40
+      },
+      "total": 520,
+      "rationale": "Avaliação da perspectiva temático-argumentativa: Localizados 0 repertórios socioculturais. Cobertura temática validada (2/4 termos centrais). Proposta de intervenção identificou 1/5 elementos obrigatórios."
+    },
+    "discrepancy_report": {
+      "has_discrepancy": false,
+      "discrepant_competencies": [],
+      "total_diff": 40,
+      "auditor_intervened": false,
+      "final_decision_summary": "Concordância plena entre Examinadores Alfa e Beta (Diferença de 40 pts dentro da margem oficial). Média aritmética INEP aplicada."
+    },
+    "annotations": [
+      {
+        "id": "ann-c1-colloquial-99",
+        "competency": "C1",
+        "severity": "erro",
+        "range": {
+          "start": 99,
+          "end": 102,
+          "paragraph": 1,
+          "sentence": null
+        },
+        "original_text": "pra",
+        "title": "Marca de Coloquialismo / Oralidade",
+        "description": "A expressão 'pra' pertence à linguagem oral informal e fere a norma culta do ENEM.",
+        "layperson_tip": "Substitua gírias e expressões do dia a dia por palavras mais formais e acadêmicas.",
+        "suggested_fix": "para",
+        "benchmark_comparison": "Em redações Nota 1000, o registro linguístico é estritamente formal e denotativo."
+      },
+      {
+        "id": "ann-c1-colloquial-99",
+        "competency": "C1",
+        "severity": "erro",
+        "range": {
+          "start": 99,
+          "end": 105,
+          "paragraph": 1,
+          "sentence": null
+        },
+        "original_text": "pra ir",
+        "title": "Marca de Coloquialismo / Oralidade",
+        "description": "A expressão 'pra ir' pertence à linguagem oral informal e fere a norma culta do ENEM.",
+        "layperson_tip": "Substitua gírias e expressões do dia a dia por palavras mais formais e acadêmicas.",
+        "suggested_fix": "para ir",
+        "benchmark_comparison": "Em redações Nota 1000, o registro linguístico é estritamente formal e denotativo."
+      },
+      {
+        "id": "ann-c1-colloquial-21",
+        "competency": "C1",
+        "severity": "erro",
+        "range": {
+          "start": 21,
+          "end": 32,
+          "paragraph": 1,
+          "sentence": null
+        },
+        "original_text": "muito legal",
+        "title": "Marca de Coloquialismo / Oralidade",
+        "description": "A expressão 'muito legal' pertence à linguagem oral informal e fere a norma culta do ENEM.",
+        "layperson_tip": "Substitua gírias e expressões do dia a dia por palavras mais formais e acadêmicas.",
+        "suggested_fix": "significativo ou relevante",
+        "benchmark_comparison": "Em redações Nota 1000, o registro linguístico é estritamente formal e denotativo."
+      },
+      {
+        "id": "ann-c1-colloquial-15",
+        "competency": "C1",
+        "severity": "erro",
+        "range": {
+          "start": 15,
+          "end": 20,
+          "paragraph": 1,
+          "sentence": null
+        },
+        "original_text": "coisa",
+        "title": "Marca de Coloquialismo / Oralidade",
+        "description": "A expressão 'coisa' pertence à linguagem oral informal e fere a norma culta do ENEM.",
+        "layperson_tip": "Substitua gírias e expressões do dia a dia por palavras mais formais e acadêmicas.",
+        "suggested_fix": "elemento, aspecto ou fator",
+        "benchmark_comparison": "Em redações Nota 1000, o registro linguístico é estritamente formal e denotativo."
+      },
+      {
+        "id": "ann-c1-colloquial-45",
+        "competency": "C1",
+        "severity": "erro",
+        "range": {
+          "start": 45,
+          "end": 55,
+          "paragraph": 1,
+          "sentence": null
+        },
+        "original_text": "todo mundo",
+        "title": "Marca de Coloquialismo / Oralidade",
+        "description": "A expressão 'todo mundo' pertence à linguagem oral informal e fere a norma culta do ENEM.",
+        "layperson_tip": "Substitua gírias e expressões do dia a dia por palavras mais formais e acadêmicas.",
+        "suggested_fix": "a totalidade dos cidadãos ou o corpo social",
+        "benchmark_comparison": "Em redações Nota 1000, o registro linguístico é estritamente formal e denotativo."
+      },
+      {
+        "id": "ann-c1-colloquial-75",
+        "competency": "C1",
+        "severity": "erro",
+        "range": {
+          "start": 75,
+          "end": 85,
+          "paragraph": 1,
+          "sentence": null
+        },
+        "original_text": "todo mundo",
+        "title": "Marca de Coloquialismo / Oralidade",
+        "description": "A expressão 'todo mundo' pertence à linguagem oral informal e fere a norma culta do ENEM.",
+        "layperson_tip": "Substitua gírias e expressões do dia a dia por palavras mais formais e acadêmicas.",
+        "suggested_fix": "a totalidade dos cidadãos ou o corpo social",
+        "benchmark_comparison": "Em redações Nota 1000, o registro linguístico é estritamente formal e denotativo."
+      },
+      {
+        "id": "ann-c1-colloquial-348",
+        "competency": "C1",
+        "severity": "erro",
+        "range": {
+          "start": 348,
+          "end": 351,
+          "paragraph": 2,
+          "sentence": null
+        },
+        "original_text": "pra",
+        "title": "Marca de Coloquialismo / Oralidade",
+        "description": "A expressão 'pra' pertence à linguagem oral informal e fere a norma culta do ENEM.",
+        "layperson_tip": "Substitua gírias e expressões do dia a dia por palavras mais formais e acadêmicas.",
+        "suggested_fix": "para",
+        "benchmark_comparison": "Em redações Nota 1000, o registro linguístico é estritamente formal e denotativo."
+      },
+      {
+        "id": "ann-c1-colloquial-232",
+        "competency": "C1",
+        "severity": "erro",
+        "range": {
+          "start": 232,
+          "end": 244,
+          "paragraph": 2,
+          "sentence": null
+        },
+        "original_text": "olho da cara",
+        "title": "Marca de Coloquialismo / Oralidade",
+        "description": "A expressão 'olho da cara' pertence à linguagem oral informal e fere a norma culta do ENEM.",
+        "layperson_tip": "Substitua gírias e expressões do dia a dia por palavras mais formais e acadêmicas.",
+        "suggested_fix": "custo desproporcional",
+        "benchmark_comparison": "Em redações Nota 1000, o registro linguístico é estritamente formal e denotativo."
+      },
+      {
+        "id": "ann-c1-colloquial-169",
+        "competency": "C1",
+        "severity": "erro",
+        "range": {
+          "start": 169,
+          "end": 180,
+          "paragraph": 2,
+          "sentence": null
+        },
+        "original_text": "Hoje em dia",
+        "title": "Marca de Coloquialismo / Oralidade",
+        "description": "A expressão 'Hoje em dia' pertence à linguagem oral informal e fere a norma culta do ENEM.",
+        "layperson_tip": "Substitua gírias e expressões do dia a dia por palavras mais formais e acadêmicas.",
+        "suggested_fix": "na contemporaneidade",
+        "benchmark_comparison": "Em redações Nota 1000, o registro linguístico é estritamente formal e denotativo."
+      },
+      {
+        "id": "ann-c4-missing-conn-d1-169",
+        "competency": "C4",
+        "severity": "atencao",
+        "range": {
+          "start": 169,
+          "end": 209,
+          "paragraph": 2,
+          "sentence": null
+        },
+        "original_text": "Hoje em dia os ingressos estão muito car",
+        "title": "Ausência de Conectivo Interparágrafo em D1",
+        "description": "O segundo parágrafo deve ser iniciado com operador argumentativo interparágrafo.",
+        "layperson_tip": "Inicie seu 2º parágrafo com expressões de ligação como 'Em primeira análise,' ou 'Nesse contexto,'.",
+        "suggested_fix": "Em primeira análise, hoje em dia os ingressos estão muito car",
+        "benchmark_comparison": "Toda redação Nota 1000 do ENEM inicia o desenvolvimento com operador argumentativo interparágrafo."
+      },
+      {
+        "id": "ann-c1-colloquial-633",
+        "competency": "C1",
+        "severity": "erro",
+        "range": {
+          "start": 633,
+          "end": 636,
+          "paragraph": 3,
+          "sentence": null
+        },
+        "original_text": "pra",
+        "title": "Marca de Coloquialismo / Oralidade",
+        "description": "A expressão 'pra' pertence à linguagem oral informal e fere a norma culta do ENEM.",
+        "layperson_tip": "Substitua gírias e expressões do dia a dia por palavras mais formais e acadêmicas.",
+        "suggested_fix": "para",
+        "benchmark_comparison": "Em redações Nota 1000, o registro linguístico é estritamente formal e denotativo."
+      },
+      {
+        "id": "ann-c1-colloquial-528",
+        "competency": "C1",
+        "severity": "erro",
+        "range": {
+          "start": 528,
+          "end": 533,
+          "paragraph": 3,
+          "sentence": null
+        },
+        "original_text": "coisa",
+        "title": "Marca de Coloquialismo / Oralidade",
+        "description": "A expressão 'coisa' pertence à linguagem oral informal e fere a norma culta do ENEM.",
+        "layperson_tip": "Substitua gírias e expressões do dia a dia por palavras mais formais e acadêmicas.",
+        "suggested_fix": "elemento, aspecto ou fator",
+        "benchmark_comparison": "Em redações Nota 1000, o registro linguístico é estritamente formal e denotativo."
+      },
+      {
+        "id": "ann-c1-colloquial-842",
+        "competency": "C1",
+        "severity": "erro",
+        "range": {
+          "start": 842,
+          "end": 852,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "todo mundo",
+        "title": "Marca de Coloquialismo / Oralidade",
+        "description": "A expressão 'todo mundo' pertence à linguagem oral informal e fere a norma culta do ENEM.",
+        "layperson_tip": "Substitua gírias e expressões do dia a dia por palavras mais formais e acadêmicas.",
+        "suggested_fix": "a totalidade dos cidadãos ou o corpo social",
+        "benchmark_comparison": "Em redações Nota 1000, o registro linguístico é estritamente formal e denotativo."
+      },
+      {
+        "id": "ann-c1-colloquial-719",
+        "competency": "C1",
+        "severity": "erro",
+        "range": {
+          "start": 719,
+          "end": 726,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "Tem que",
+        "title": "Marca de Coloquialismo / Oralidade",
+        "description": "A expressão 'Tem que' pertence à linguagem oral informal e fere a norma culta do ENEM.",
+        "layperson_tip": "Substitua gírias e expressões do dia a dia por palavras mais formais e acadêmicas.",
+        "suggested_fix": "é imperativo que ou deve-se",
+        "benchmark_comparison": "Em redações Nota 1000, o registro linguístico é estritamente formal e denotativo."
+      },
+      {
+        "id": "ann-c1-colloquial-770",
+        "competency": "C1",
+        "severity": "erro",
+        "range": {
+          "start": 770,
+          "end": 777,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "tem que",
+        "title": "Marca de Coloquialismo / Oralidade",
+        "description": "A expressão 'tem que' pertence à linguagem oral informal e fere a norma culta do ENEM.",
+        "layperson_tip": "Substitua gírias e expressões do dia a dia por palavras mais formais e acadêmicas.",
+        "suggested_fix": "é imperativo que ou deve-se",
+        "benchmark_comparison": "Em redações Nota 1000, o registro linguístico é estritamente formal e denotativo."
+      },
+      {
+        "id": "ann-c4-missing-conn-c5-719",
+        "competency": "C4",
+        "severity": "atencao",
+        "range": {
+          "start": 719,
+          "end": 759,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "Tem que mudar isso urgente. O governo e ",
+        "title": "Ausência de Conectivo Conclusivo na Intervenção",
+        "description": "A conclusão deve ser introduzida por operador argumentativo de valor conclusivo.",
+        "layperson_tip": "Abra seu parágrafo final com 'Portanto,' ou 'Desse modo,'.",
+        "suggested_fix": "Portanto, medidas são necessárias para tem que mudar isso urgente. o governo e ",
+        "benchmark_comparison": "Redações nota 1000 sempre iniciam a conclusão com conjunção conclusiva."
+      },
+      {
+        "id": "ann-c5-praise-agent-747",
+        "competency": "C5",
+        "severity": "elogio",
+        "range": {
+          "start": 747,
+          "end": 897,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "O governo e as pessoas tem que se juntar e fazer campanhas para o ingresso ficar mais barato e todo mundo poder ir ao cinema sem gastar tanto dinheiro",
+        "title": "Elemento Identificado: Agente (Comp. 5)",
+        "description": "Agente executor da proposta claramente especificado.",
+        "layperson_tip": "Excelente! Você indicou QUEM deve agir para resolver o problema.",
+        "suggested_fix": null,
+        "benchmark_comparison": "O agente bem determinado garante os primeiros 40 pontos da Competência 5."
+      },
+      {
+        "id": "ann-c5-missing-medium-719",
+        "competency": "C5",
+        "severity": "erro",
+        "range": {
+          "start": 719,
+          "end": 799,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "Tem que mudar isso urgente. O governo e as pessoas tem que se juntar e fazer cam",
+        "title": "Elemento Ausente: Modo / Meio (Comp. 5)",
+        "description": "A proposta não detalha COMO a ação será posta em prática.",
+        "layperson_tip": "Explique o meio ou método usando 'por meio de...' ou 'mediante...'.",
+        "suggested_fix": "por intermédio do direcionamento prioritário de verbas orçamentárias e capacitação profissional,",
+        "benchmark_comparison": "O meio/modo é requisito obrigatório na cartilha do corretor do INEP."
+      },
+      {
+        "id": "ann-c5-missing-detail-719",
+        "competency": "C5",
+        "severity": "atencao",
+        "range": {
+          "start": 719,
+          "end": 789,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "Tem que mudar isso urgente. O governo e as pessoas tem que se juntar e",
+        "title": "Elemento Ausente: Detalhamento (Comp. 5)",
+        "description": "Faltou detalhar um dos 4 elementos da proposta (explicar a função do agente ou exemplificar o meio).",
+        "layperson_tip": "Acrescente uma explicação entre vírgulas para o agente ou para o meio. Ex: 'Ministério da Saúde, pasta responsável pela política pública preventiva...'",
+        "suggested_fix": "órgão responsável pela formulação das políticas de proteção coletiva,",
+        "benchmark_comparison": "A falta de detalhamento é a causa mais comum de redações ficarem com 160 pontos na C5."
+      }
+    ],
+    "metrics": {
+      "total_words": 165,
+      "total_paragraphs": 4,
+      "total_sentences": 7,
+      "avg_words_per_sentence": 23.6,
+      "avg_words_per_paragraph": 41.2,
+      "type_token_ratio": 0.697,
+      "interparagraph_connectors_count": 1,
+      "interparagraph_connectors_found": [
+        "Parágrafo 3: Além disso, as pessoas prefere..."
+      ],
+      "c5_elements_present": {
+        "agente": true,
+        "acao": false,
+        "meio": false,
+        "efeito": false,
+        "detalhamento": false
+      }
+    },
+    "pedagogical_summary": {
+      "greeting": "Bem-vindo! Todo grande escritor começa pelo rascunho, e você já deu o passo mais importante: colocar suas ideias no papel.",
+      "overall_verdict": "Identificamos pontos fáceis onde você pode ganhar muitos pontos rapidamente seguindo a estrutura do ENEM.",
+      "greatest_strength": "Mecanismos Linguísticos de Coesão (160/200): Você demonstrou forte segurança neste critério.",
+      "primary_focus_area": "Proposta de Intervenção Social e Cidadã (40/200): Focando aqui, você tem potencial imediato de subir sua nota.",
+      "suggested_action_plan": [
+        "Na conclusão, responda às 5 perguntinhas: Quem faz? O que faz? Como faz? Para que faz? E dê um detalhe extra.",
+        "Explore a redação nota 1000 sobre 'Democratização do acesso ao cinema no Brasil' no Explorador Raio-X para ver na prática como estruturar o parágrafo.",
+        "Clique no botão 'Aplicar Correção' nos cartões destacados do seu texto para ver a frase melhorada instantaneamente."
+      ],
+      "inspirational_quote": "'A escrita não é fruto de mágica, mas de técnica e persistência.' — Boa prática rumo à nota 1000!"
+    },
+    "similar_benchmarks": [
+      "red-1000-2019-051",
+      "red-1000-2019-052",
+      "red-1000-2019-053"
+    ]
+  },
+  {
+    "id": "corr-4a0e6833c4",
+    "timestamp": "2026-10-15T18:01:37.801878",
+    "profile_id": "default",
+    "theme": "Invisibilidade do trabalho de cuidado realizado pela mulher no Brasil",
+    "text": "Na obra Casa-Grande e Senzala, o sociólogo expõe as raízes patriarcais da sociedade.\n\nEm primeira análise, a negligência governamental agrava essa problemática.\n\nAdemais, a cumplicidade social reforça a invisibilidade do trabalho feminino.\n\nPortanto, cabe ao Ministério da Educação criar oficinas nas escolas, a fim de conscientizar a juventude.",
+    "total_score": 800,
+    "competency_scores": {
+      "C1": {
+        "competency": "C1",
+        "name": "Domínio da Norma Culta da Língua Portuguesa",
+        "score": 200,
+        "level": 5,
+        "description": "Excelente domínio da modalidade escrita formal, com no máximo dois desvios gramaticais leves tolerados.",
+        "strengths": [
+          "Excelente pontuação em C1 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C2": {
+        "competency": "C2",
+        "name": "Compreensão da Proposta e Repertório Sociocultural",
+        "score": 160,
+        "level": 4,
+        "description": "Repertório legitimado e pertinente ao tema, com desenvolvimento produtivo razoável.",
+        "strengths": [
+          "Excelente pontuação em C2 (160/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C3": {
+        "competency": "C3",
+        "name": "Projeto de Texto e Consistência Argumentativa",
+        "score": 120,
+        "level": 3,
+        "description": "Projeto de texto com algumas falhas, apresentando argumentos pertinentes mas com desenvolvimento superficial.",
+        "strengths": [],
+        "improvements": [
+          "Oportunidade de elevar C3 de 120 para 200 pontos."
+        ],
+        "evidence": []
+      },
+      "C4": {
+        "competency": "C4",
+        "name": "Mecanismos Linguísticos de Coesão",
+        "score": 200,
+        "level": 5,
+        "description": "Uso expressivo e diversificado de recursos coesivos inter e intraparágrafos, sem repetições viciosas.",
+        "strengths": [
+          "Excelente pontuação em C4 (200/200)."
+        ],
+        "improvements": [],
+        "evidence": []
+      },
+      "C5": {
+        "competency": "C5",
+        "name": "Proposta de Intervenção Social e Cidadã",
+        "score": 120,
+        "level": 3,
+        "description": "Presença de 3 elementos válidos da proposta de intervenção.",
+        "strengths": [],
+        "improvements": [
+          "Oportunidade de elevar C5 de 120 para 200 pontos."
+        ],
+        "evidence": []
+      }
+    },
+    "examiner_alfa": {
+      "examiner_name": "Examinador Alfa",
+      "focus": "Norma Culta da Língua Escrita (C1) e Mecanismos de Coesão (C4)",
+      "scores": {
+        "C1": 200,
+        "C2": 120,
+        "C3": 120,
+        "C4": 200,
+        "C5": 120
+      },
+      "total": 760,
+      "rationale": "Avaliação da perspectiva linguística: Identificados 0 desvios gramaticais em C1. Presença de 3 conectivos interparágrafos em C4. Vocabulário com índice de riqueza lexical TTR=0.90."
+    },
+    "examiner_beta": {
+      "examiner_name": "Examinador Beta",
+      "focus": "Compreensão Temática (C2), Projeto de Texto (C3) e Proposta de Intervenção (C5)",
+      "scores": {
+        "C1": 200,
+        "C2": 200,
+        "C3": 120,
+        "C4": 200,
+        "C5": 120
+      },
+      "total": 840,
+      "rationale": "Avaliação da perspectiva temático-argumentativa: Localizados 2 repertórios socioculturais. Cobertura temática validada (2/7 termos centrais). Proposta de intervenção identificou 3/5 elementos obrigatórios."
+    },
+    "discrepancy_report": {
+      "has_discrepancy": false,
+      "discrepant_competencies": [],
+      "total_diff": 80,
+      "auditor_intervened": false,
+      "final_decision_summary": "Concordância plena entre Examinadores Alfa e Beta (Diferença de 80 pts dentro da margem oficial). Média aritmética INEP aplicada."
+    },
+    "annotations": [
+      {
+        "id": "ann-c5-praise-agent-251",
+        "competency": "C5",
+        "severity": "elogio",
+        "range": {
+          "start": 251,
+          "end": 308,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "cabe ao Ministério da Educação criar oficinas nas escolas",
+        "title": "Elemento Identificado: Agente (Comp. 5)",
+        "description": "Agente executor da proposta claramente especificado.",
+        "layperson_tip": "Excelente! Você indicou QUEM deve agir para resolver o problema.",
+        "suggested_fix": null,
+        "benchmark_comparison": "O agente bem determinado garante os primeiros 40 pontos da Competência 5."
+      },
+      {
+        "id": "ann-c5-missing-medium-241",
+        "competency": "C5",
+        "severity": "erro",
+        "range": {
+          "start": 241,
+          "end": 321,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "Portanto, cabe ao Ministério da Educação criar oficinas nas escolas, a fim de co",
+        "title": "Elemento Ausente: Modo / Meio (Comp. 5)",
+        "description": "A proposta não detalha COMO a ação será posta em prática.",
+        "layperson_tip": "Explique o meio ou método usando 'por meio de...' ou 'mediante...'.",
+        "suggested_fix": "por intermédio do direcionamento prioritário de verbas orçamentárias e capacitação profissional,",
+        "benchmark_comparison": "O meio/modo é requisito obrigatório na cartilha do corretor do INEP."
+      },
+      {
+        "id": "ann-c5-missing-detail-241",
+        "competency": "C5",
+        "severity": "atencao",
+        "range": {
+          "start": 241,
+          "end": 311,
+          "paragraph": 4,
+          "sentence": null
+        },
+        "original_text": "Portanto, cabe ao Ministério da Educação criar oficinas nas escolas, a",
+        "title": "Elemento Ausente: Detalhamento (Comp. 5)",
+        "description": "Faltou detalhar um dos 4 elementos da proposta (explicar a função do agente ou exemplificar o meio).",
+        "layperson_tip": "Acrescente uma explicação entre vírgulas para o agente ou para o meio. Ex: 'Ministério da Saúde, pasta responsável pela política pública preventiva...'",
+        "suggested_fix": "órgão responsável pela formulação das políticas de proteção coletiva,",
+        "benchmark_comparison": "A falta de detalhamento é a causa mais comum de redações ficarem com 160 pontos na C5."
+      }
+    ],
+    "metrics": {
+      "total_words": 48,
+      "total_paragraphs": 4,
+      "total_sentences": 4,
+      "avg_words_per_sentence": 12.0,
+      "avg_words_per_paragraph": 12.0,
+      "type_token_ratio": 0.8958,
+      "interparagraph_connectors_count": 3,
+      "interparagraph_connectors_found": [
+        "Parágrafo 2: Em primeira análise, a negligê...",
+        "Parágrafo 3: Ademais, a cumplicidade social...",
+        "Parágrafo 4: Portanto, cabe ao Ministério d..."
+      ],
+      "c5_elements_present": {
+        "agente": true,
+        "acao": true,
+        "meio": false,
+        "efeito": true,
+        "detalhamento": false
+      }
+    },
+    "pedagogical_summary": {
+      "greeting": "Muito bom trabalho! Sua base de redação é sólida e você já domina a estrutura fundamental do texto.",
+      "overall_verdict": "Você tem ótimas ideias. O segredo agora é organizar melhor as palavras de ligação e aprofundar os exemplos.",
+      "greatest_strength": "Domínio da Norma Culta da Língua Portuguesa (200/200): Você demonstrou forte segurança neste critério.",
+      "primary_focus_area": "Proposta de Intervenção Social e Cidadã (120/200): Focando aqui, você tem potencial imediato de subir sua nota.",
+      "suggested_action_plan": [
+        "Na conclusão, responda às 5 perguntinhas: Quem faz? O que faz? Como faz? Para que faz? E dê um detalhe extra.",
+        "Explore a redação nota 1000 sobre 'Invisibilidade do trabalho de cuidado realizado pela mulher no Brasil' no Explorador Raio-X para ver na prática como estruturar o parágrafo.",
+        "Clique no botão 'Aplicar Correção' nos cartões destacados do seu texto para ver a frase melhorada instantaneamente."
+      ],
+      "inspirational_quote": "'A escrita não é fruto de mágica, mas de técnica e persistência.' — Boa prática rumo à nota 1000!"
+    },
+    "similar_benchmarks": [
+      "red-1000-2023-011",
+      "red-1000-2023-012",
+      "red-1000-2023-013"
+    ]
+  }
+]

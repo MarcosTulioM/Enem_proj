@@ -1,0 +1,102 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-100 text-slate-900 antialiased font-sans min-h-screen selection:bg-brand-500 selection:text-white;
+    background-image: 
+      radial-gradient(at 0% 0%, rgba(16, 185, 129, 0.08) 0px, transparent 50%),
+      radial-gradient(at 100% 0%, rgba(79, 70, 229, 0.07) 0px, transparent 50%),
+      radial-gradient(at 50% 100%, rgba(245, 158, 11, 0.05) 0px, transparent 50%);
+    background-attachment: fixed;
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: 'Outfit', 'Plus Jakarta Sans', system-ui, sans-serif;
+  }
+}
+
+@layer components {
+  /* Argon 3D Tactile Surface Cards */
+  .card-3d {
+    @apply bg-white/95 backdrop-blur-md rounded-2xl border-2 border-slate-200/90 shadow-3d-card transition-all duration-200;
+  }
+
+  .card-3d-interactive {
+    @apply bg-white/95 backdrop-blur-md rounded-2xl border-2 border-slate-200/90 shadow-3d-card transition-all duration-200 hover:-translate-y-1 hover:shadow-3d-card-hover hover:border-brand-300 active:translate-y-0.5;
+  }
+
+  .card-3d-dark {
+    @apply bg-gradient-to-br from-slate-900 via-slate-900 to-indigo-950 text-white rounded-3xl border-2 border-slate-700/80 shadow-3d-dark;
+  }
+
+  /* Argon 3D Tactile Push Buttons */
+  .btn-3d-emerald {
+    @apply inline-flex items-center justify-center gap-2 font-display font-bold text-white bg-gradient-to-b from-brand-500 to-brand-600 border-t border-brand-300/60 rounded-xl shadow-3d-emerald transition-all duration-150 hover:from-brand-400 hover:to-brand-600 hover:-translate-y-0.5 active:translate-y-0.5 active:shadow-3d-emerald-active disabled:opacity-50 disabled:pointer-events-none;
+  }
+
+  .btn-3d-indigo {
+    @apply inline-flex items-center justify-center gap-2 font-display font-bold text-white bg-gradient-to-b from-indigo-500 to-indigo-600 border-t border-indigo-300/60 rounded-xl shadow-3d-indigo transition-all duration-150 hover:from-indigo-400 hover:to-indigo-600 hover:-translate-y-0.5 active:translate-y-0.5 disabled:opacity-50 disabled:pointer-events-none;
+  }
+
+  .btn-3d-amber {
+    @apply inline-flex items-center justify-center gap-2 font-display font-bold text-white bg-gradient-to-b from-amber-500 to-amber-600 border-t border-amber-300/60 rounded-xl shadow-3d-amber transition-all duration-150 hover:from-amber-400 hover:to-amber-600 hover:-translate-y-0.5 active:translate-y-0.5 disabled:opacity-50 disabled:pointer-events-none;
+  }
+
+  .btn-3d-rose {
+    @apply inline-flex items-center justify-center gap-2 font-display font-bold text-white bg-gradient-to-b from-rose-500 to-rose-600 border-t border-rose-300/60 rounded-xl shadow-3d-rose transition-all duration-150 hover:from-rose-400 hover:to-rose-600 hover:-translate-y-0.5 active:translate-y-0.5 disabled:opacity-50 disabled:pointer-events-none;
+  }
+
+  .btn-3d-white {
+    @apply inline-flex items-center justify-center gap-2 font-display font-bold text-slate-700 bg-white border-2 border-slate-200 rounded-xl shadow-3d-sm transition-all duration-150 hover:border-slate-300 hover:bg-slate-50 hover:-translate-y-0.5 active:translate-y-0.5;
+  }
+
+  /* Lined Official ENEM Essay Sheet */
+  .enem-paper-sheet {
+    background-color: #fffef9;
+    background-image: linear-gradient(transparent 31px, rgba(148, 163, 184, 0.22) 32px);
+    background-size: 100% 32px;
+    line-height: 32px;
+  }
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(241, 245, 249, 0.7);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Pulse & Float animations */
+@keyframes subtle-pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.9; transform: scale(1.02); }
+}
+
+@keyframes float-slow {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-5px); }
+}
+
+.pulse-badge {
+  animation: subtle-pulse 2.2s infinite ease-in-out;
+}
+
+.float-3d {
+  animation: float-slow 4s infinite ease-in-out;
+}

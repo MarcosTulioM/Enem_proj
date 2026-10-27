@@ -1,0 +1,62 @@
+[
+  {
+    "id": "default",
+    "name": "Meu Perfil",
+    "created_at": "2026-10-15T17:22:21.831772",
+    "avatar_color": "#10B981"
+  },
+  {
+    "id": "prof-ae404f17",
+    "name": "Novo Estudante",
+    "created_at": "2026-10-15T17:22:21.941240",
+    "avatar_color": "#3B82F6"
+  },
+  {
+    "id": "prof-611ac72a",
+    "name": "Novo Estudante",
+    "created_at": "2026-10-15T17:24:33.094759",
+    "avatar_color": "#3B82F6"
+  },
+  {
+    "id": "prof-d2e97c46",
+    "name": "Novo Estudante",
+    "created_at": "2026-10-15T17:25:37.500967",
+    "avatar_color": "#3B82F6"
+  },
+  {
+    "id": "prof-d383f439",
+    "name": "Novo Estudante",
+    "created_at": "2026-10-15T17:26:00.876971",
+    "avatar_color": "#3B82F6"
+  },
+  {
+    "id": "prof-022e942a",
+    "name": "Novo Estudante",
+    "created_at": "2026-10-15T17:35:45.155678",
+    "avatar_color": "#3B82F6"
+  },
+  {
+    "id": "prof-efdbca53",
+    "name": "Novo Estudante",
+    "created_at": "2026-10-15T17:36:07.121964",
+    "avatar_color": "#3B82F6"
+  },
+  {
+    "id": "prof-540ea59d",
+    "name": "Novo Estudante",
+    "created_at": "2026-10-15T17:36:24.300378",
+    "avatar_color": "#3B82F6"
+  },
+  {
+    "id": "prof-d8e56810",
+    "name": "Novo Estudante",
+    "created_at": "2026-10-15T17:37:27.698061",
+    "avatar_color": "#3B82F6"
+  },
+  {
+    "id": "prof-21cebcb7",
+    "name": "Novo Estudante",
+    "created_at": "2026-10-15T18:01:37.798244",
+    "avatar_color": "#3B82F6"
+  }
+]
